@@ -1,0 +1,36 @@
+{
+  "default": {
+    "title": "Sendtime",
+    "description": "使用 Sendtime 輕鬆安排會議和預約，簡單高效！憑藉其流暢且易於使用的介面，管理您的日程表從未如此輕鬆。立即免費嘗試，體驗 Sendtime 如何提升您的日程安排體驗。"
+  },
+  "myCalendar": {
+    "title": "Sendtime | 我的日曆",
+    "description": "使用「我的日曆」，您可以輕鬆查看所有已安排的活動並在幾個點擊中創建個性化的預約頁面。"
+  },
+  "signin": {
+    "title": "Sendtime | 登入",
+    "description": "登入以使用 Sendtime。"
+  },
+  "signup": {
+    "title": "Sendtime | 註冊",
+    "description": "註冊以使用 Sendtime。"
+  },
+  "reservation": {
+    "title": "Sendtime | 創建預約頁面",
+    "description": "創建預約頁面並接收活動。"
+  },
+  "reservationEdit": {
+    "title": "Sendtime | 編輯您的預約頁面",
+    "description": "編輯您的預約頁面。"
+  },
+  "group": {
+    "reservation": {
+      "title": "Sendtime | 創建群組預約頁面",
+      "description": "創建群組預約頁面並接收活動。"
+    },
+    "reservationEdit": {
+      "title": "Sendtime | 編輯您的群組預約頁面",
+      "description": "編輯您的群組預約頁面。"
+    }
+  }
+}

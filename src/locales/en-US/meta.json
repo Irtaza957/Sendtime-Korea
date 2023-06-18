@@ -1,0 +1,36 @@
+{
+  "default": {
+    "title": "Sendtime",
+    "description": "Make scheduling meetings and appointments a breeze with Sendtime - the easy and efficient tool that's perfect for you and your team. With its sleek and user-friendly interface, managing your schedule has never been easier. Try it now for free and see how Sendtime can elevate your scheduling experience"
+  },
+  "myCalendar": {
+    "title": "Sendtime | My Calendar",
+    "description": "With My Calendar, you can easily view all your scheduled events and create a personalized booking page in just a few clicks."
+  },
+  "signin": {
+    "title": "Sendtime | Sign In",
+    "description": "Sign in to use Sendtime."
+  },
+  "signup": {
+    "title": "Sendtime | Sign Up",
+    "description": "Sign up to use Sendtime."
+  },
+  "reservation": {
+    "title": "Sendtime | Create a Booking Page",
+    "description": "Create a Booking page and receive events."
+  },
+  "reservationEdit": {
+    "title": "Sendtime | Edit your Booking Page",
+    "description": "Edit your booking page."
+  },
+  "group": {
+    "reservation": {
+      "title": "Sendtime | Create a Group Booking Page",
+      "description": "Create a group booking page and receive events."
+    },
+    "reservationEdit": {
+      "title": "Sendtime | Edit your Group Booking Page",
+      "description": "Edit your group booking page."
+    }
+  }
+}

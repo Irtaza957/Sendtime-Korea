@@ -1,0 +1,125 @@
+{
+  "title": "建立群組預約頁面",
+  "editTitle": "編輯群組預約頁面",
+  "pageName": {
+    "1": "1. 頁面設定",
+    "2": "2. 共同主持人設定",
+    "3": "3. 可用時間設定",
+    "4": "4. 額外設定",
+    "5": "5. 表單配置"
+  },
+  "preview": {
+    "title": "預覽頁面",
+    "subtitle": "在行事曆上選擇開放的時段。"
+  },
+  "formPreview": {
+    "title": "預約持有者的表單預覽"
+  },
+  "customBlockingTimes": {
+    "guide": "最後，如果您不想讓被邀請人預約某些時間，\n請在下面的行事曆上拖曳和點擊以設定自訂勿打擾時間。"
+  },
+
+  "bookingPageName": {
+    "title": "預約頁面名稱",
+    "placeholder": ""
+  },
+  "description": {
+    "title": "說明/指示",
+    "placeholder": "撰寫關於此事件的摘要和任何被邀請人應該知道的細節。"
+  },
+  "dateRange": {
+    "title": "日期範圍",
+    "subtitle": "人們可以在什麼時候預約這個會議？請設定可以接受會議的日期範圍。",
+    "custom": "輸入天數：從今天開始",
+    "custom2": "天後",
+    "indefinite": "無限期",
+    "errorMessage": "無法設定的日期範圍。"
+  },
+  "duration": {
+    "title": "持續時間",
+    "subtitle": "定義您的事件要持續多久。可長達12小時。",
+    "inputBoxPlaceHolder": "搜尋",
+    "toggleTitle": "多重選擇",
+    "emptyMessage": "請選擇一個或多個時間單位。"
+  },
+  "location": {
+    "title": "地點",
+    "subtitle": "新增地點。您可以新增多個被邀請人可以選擇的地點。",
+    "customField": {
+      "title": "自訂",
+      "placeholder": "留下自訂的地點詳細資訊"
+    },
+    "addButton": "新增",
+    "googleMeetGuide": "(使用 Google 整合，Google Meet 連結會自動通過發送時間發送).",
+    "phoneCall": "電話會議",
+    "askInterviewee": "詢問受訪者"
+  },
+  "timeSlotSetting": {
+    "title": "被邀請人最多可向您發送時間建議..",
+    "subtitle": "您可以從一到十個選擇。",
+    "numberOfSlots": {
+      "1": "1個時段",
+      "2": "2個時段",
+      "3": "3個時段",
+      "4": "4個時段",
+      "5": "5個時段",
+      "6": "6個時段",
+      "7": "7個時段",
+      "8": "8個時段",
+      "9": "9個時段",
+      "10": "10個時段"
+    }
+  },
+  "availability": {
+    "title": "可用性設定",
+    "subtitle": "定義您預訂頁面的自訂時間範圍。\n被邀請人無法在下面選擇的日期/時間範圍外請求預約。"
+  },
+  "buffer": {
+    "title": "事件前後加入時間。",
+    "subtitle": "為預訂的Sendtime事件準備一些緩衝時間，以便準備或完成。",
+    "beforeEvent": "事件之前",
+    "afterEvent": "事件之後"
+  },
+  "hideEventInfo": {
+    "title": "隱藏日曆事件信息",
+    "subtitle": "您可以將日曆事件內容設置為公開或私有，向被邀請人隱藏日曆事件信息。"
+  },
+  "remind": {
+    "title": "提醒通知",
+    "subtitle": "當確認了事件時，系統會在事件開始前1天自動向您和被邀請人發送提醒電子郵件。"
+  },
+  "mobile": {
+    "prevideGuide": "預覽頁面",
+    "blockingTimeGuide": "要設置勿擾時間，請前往網頁端進行設置。"
+  },
+  "alert": {
+    "openDurationAlert1": "此群組日曆僅開放",
+    "openDurationAlert2": "",
+    "noEvent": {
+      "title": "警告！",
+      "subtitle": "此選項意味著預訂頁面將始終保持開放狀態，\n因此，整合的日曆事件或確認的Sendtime事件\n將不會被阻止在此頁面上。"
+    }
+  },
+  "cohostSetting": {
+    "title": "共同主持人可用性設定",
+    "1": {
+      "title": "僅當所有共同主持人都有空閒時才接受預訂",
+      "description": ""
+    },
+    "2": {
+      "title": "只要有一位共同主持人有空閒就接受預訂",
+      "description": ""
+    },
+    "3": {
+      "title": "不論所有共同主持人的時間表，都接受預約",
+      "description": "",
+      "allowBlockingTimesText": "不要允許客人在被封鎖的時間預訂。"
+    }
+  },
+  "eventHost": {
+    "title": "Google 日曆事件主持人",
+    "subtitle": "",
+    "description": "活動將在 Sendtime 日曆上創建。"
+  },
+  "noOrganizer": "所有選定的成員都沒有整合外部日曆（Google）。"
+}

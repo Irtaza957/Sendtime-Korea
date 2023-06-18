@@ -1,0 +1,26 @@
+{
+  "logIn": "Log in",
+  "email": "Email",
+  "emailPlaceholder": "name@email.com",
+  "password": "Password",
+  "passwordPlaceholder": "Enter your password",
+  "or": "OR",
+  "logInWithGoogle": "Log in with Google",
+  "noAccount": "No Account?",
+  "signUp": "Sign up",
+  "lostPassword": "Forgot Password?",
+  "getNewPassword": "Get a new Password",
+  "promotionTitle": "A simple and easy-to-use scheduling tool",
+  "promotionText": "Sendtime boosts team productivity by up to 3X and streamline business workflow.",
+  "alert": {
+    "emailInputForm": "Please enter a valid email address",
+    "notLoggedIn": "User is not logged in",
+    "alreadyExistingEmail": "Please log in with a regular account, not with Google login.",
+    "signInWithEmail": "This email is already registered as a regular member.",
+    "alreadySignedUpWithSocial": "You are already signed up with social account.",
+    "signInWithSocial": "Please log in with Social account.",
+    "wrongPassword": "Wrong password",
+    "emailNotVerified": "The sign up process has not been completed.",
+    "emailNotVerifiedDescription": "We have sent an email to the email address you provided during the initial sign up. Please check your inbox."
+  }
+}

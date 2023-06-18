@@ -1,0 +1,52 @@
+{
+  "title": "Cài đặt Thành viên",
+  "tab": {
+    "members": "Thành viên",
+    "status": "Trạng thái Lời mời"
+  },
+  "guide": {
+    "title": "Bạn có thể xem trạng thái của lời mời cho những người bạn đã mời tham gia nhóm. Nếu bạn hủy lời mời, họ sẽ không thể tham gia nhóm.",
+    "invite": "Mời"
+  },
+  "modal": {
+    "cancelInvite": {
+      "title": "Bạn có chắc muốn hủy lời mời?",
+      "subtitle": "Nếu bạn hủy lời mời, thành viên đó sẽ không thể tham gia nhóm thông qua email mời được gửi cho họ.",
+      "btn": "Hủy Lời mời"
+    },
+    "leaveGroup": {
+      "title": "Bạn có muốn rời nhóm?",
+      "subtitle": "Nếu bạn rời nhóm, bạn sẽ không còn được truy cập vào lịch nhóm hoặc trang đặt chỗ của nhóm, và bạn sẽ không nhận được thông báo cho các đặt chỗ được thực hiện cho nhóm đó.",
+      "btn": "Rời nhóm"
+    },
+    "memberStatus": {
+      "leave": "Rời nhóm",
+      "remove": "Xoá",
+      "pending": "Đang chờ",
+      "invitationExpire": "Lời mời hết hạn"
+    }
+  },
+  "editMyInfo": "Chỉnh sửa",
+  "message": {
+    "leftGroup": "Rời nhóm thành công."
+  },
+  "cancel": "Hủy Lời mời",
+  "editModal": {
+    "title": "Cập nhật hồ sơ của tôi",
+    "notEditingModeTitle": "Hồ sơ của tôi",
+    "subtitle": "Vui lòng nhập thông tin cá nhân của bạn để chia sẻ với các thành viên trong nhóm.",
+    "name": "Tên",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "memoTitle": "Ghi chú",
+    "memoSubtitle": "Vui lòng cung cấp bất kỳ ghi chú bổ sung nào bạn muốn chia sẻ với nhóm",
+    "save": "Lưu",
+    "join": "Tham gia",
+    "saveSuccess": {
+      "title": "Đã lưu!",
+      "subtitle": "Đã lưu thông tin của bạn thành công."
+    }
+  },
+  "groupName": "Tên Nhóm",
+  "me": "Tôi"
+}

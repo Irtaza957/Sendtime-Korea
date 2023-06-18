@@ -1,0 +1,24 @@
+{
+  "refresh": "Vui lòng làm mới trang và thử lại",
+  "memberError": {
+    "title": "Người dùng đã rời khỏi dịch vụ vẫn tồn tại trong nhóm này.",
+    "description": "Nếu bạn tiếp tục gặp các vấn đề tương tự, vui lòng liên hệ với chúng tôi qua địa chỉ email help@splab.dev để được hỗ trợ."
+  },
+  "goingBackAlertforGroup": "Trang đặt lịch bạn đang xây dựng sẽ biến mất và bạn sẽ trở về trang trước.\nBạn có muốn quay lại?",
+  "googleCalendarPermissionRequired": "Vui lòng cấp quyền cho tích hợp lịch Google.",
+  "serverError": "Đã xảy ra sự cố. Vui lòng thử lại sau. Nếu vấn đề vẫn tiếp diễn, vui lòng liên hệ hỗ trợ (help@splab.dev).",
+  "404": {
+    "title": "Xin lỗi, trang bạn đang tìm kiếm không thể được tìm thấy.\nCó thể trang đã bị di chuyển hoặc xóa hoặc bạn đã nhập sai URL.\nNếu vấn đề vẫn tiếp diễn, vui lòng liên hệ với đội ngũ hỗ trợ của chúng tôi (help@splab.dev) để được hỗ trợ.\nChúng tôi sẽ giúp bạn tìm thấy những gì bạn cần!",
+    "btn": "Trở về Trang Chủ"
+  },
+  "deletedPage": {
+    "title": "Đây là trang đặt lịch đã bị xóa.",
+    "subtitle": "Trang này đã bị xóa và không còn khả năng thay đổi sự kiện của bạn. Bạn chỉ có thể xác nhận hoặc hủy bỏ nó. \nNếu bạn có bất kỳ yêu cầu nào, vui lòng liên hệ với chủ trang đặt lịch.",
+    "btn": "Trở về Trang Chủ"
+  },
+  "deactivatedPage": {
+    "title": "Đây là trang đặt lịch đã bị ngưng hoạt động.",
+    "subtitle": "Trang này đã bị ngưng hoạt động bởi chủ trang, \nNếu bạn có bất kỳ yêu cầu nào, vui lòng liên hệ với chủ trang đặt lịch.",
+    "btn": "Trở về Trang Chủ"
+  }
+}

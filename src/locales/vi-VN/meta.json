@@ -1,0 +1,36 @@
+{
+  "default": {
+    "title": "Sendtime",
+    "description": "Với Sendtime, việc lập kế hoạch cho các cuộc họp và cuộc hẹn sẽ trở nên dễ dàng hơn bao giờ hết. Giao diện hiện đại và thân thiện với người dùng giúp cho việc quản lý lịch trình của bạn và nhóm của bạn trở nên thuận tiện hơn bao giờ hết. Hãy trải nghiệm Sendtime miễn phí ngay hôm nay và khám phá cách Sendtime có thể nâng cao trải nghiệm lập kế hoạch của bạn."
+  },
+  "myCalendar": {
+    "title": "Sendtime | Lịch cá nhân của tôi",
+    "description": "Với lịch cá nhân của tôi, bạn có thể dễ dàng xem tất cả các sự kiện đã lên lịch của mình và tạo trang đặt lịch cá nhân chỉ trong vài cú nhấp chuột."
+  },
+  "signin": {
+    "title": "Sendtime | Đăng nhập",
+    "description": "Đăng nhập để sử dụng Sendtime."
+  },
+  "signup": {
+    "title": "Sendtime | Đăng ký",
+    "description": "Đăng ký để sử dụng Sendtime."
+  },
+  "reservation": {
+    "title": "Sendtime | Tạo trang đặt lịch",
+    "description": "Tạo trang đặt lịch và nhận sự kiện."
+  },
+  "reservationEdit": {
+    "title": "Sendtime | Chỉnh sửa trang đặt lịch của bạn",
+    "description": "Chỉnh sửa trang đặt lịch của bạn."
+  },
+  "group": {
+    "reservation": {
+      "title": "Sendtime | Tạo trang đặt lịch nhóm",
+      "description": "Tạo trang đặt lịch nhóm và nhận sự kiện."
+    },
+    "reservationEdit": {
+      "title": "Sendtime | Chỉnh sửa trang đặt lịch nhóm của bạn",
+      "description": "Chỉnh sửa trang đặt lịch nhóm của bạn."
+    }
+  }
+}

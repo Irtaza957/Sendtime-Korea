@@ -1,0 +1,52 @@
+{
+  "title": "成員設定",
+  "tab": {
+    "members": "成員",
+    "status": "邀請狀態"
+  },
+  "guide": {
+    "title": "您可以查看邀請的人員加入群組的狀態。如果取消邀請，邀請的人員將無法透過邀請信加入群組。",
+    "invite": "邀請"
+  },
+  "modal": {
+    "cancelInvite": {
+      "title": "確定要取消邀請嗎？",
+      "subtitle": "如果取消邀請，該成員將無法透過邀請信加入群組。",
+      "btn": "取消邀請"
+    },
+    "leaveGroup": {
+      "title": "您確定要離開群組嗎？",
+      "subtitle": "如果離開群組，您將無法訪問群組日曆或群組預訂頁面，也不會收到針對該群組的預訂通知。",
+      "btn": "離開"
+    },
+    "memberStatus": {
+      "leave": "離開群組",
+      "remove": "移除",
+      "pending": "待審核",
+      "invitationExpire": "邀請已過期"
+    }
+  },
+  "editMyInfo": "編輯",
+  "message": {
+    "leftGroup": "已成功離開群組。"
+  },
+  "cancel": "取消邀請",
+  "editModal": {
+    "title": "更新個人資料",
+    "notEditingModeTitle": "我的檔案",
+    "subtitle": "請輸入您的個人資訊，以便共享給群組成員。",
+    "name": "姓名",
+    "phone": "電話",
+    "email": "電子郵件",
+    "memoTitle": "備註",
+    "memoSubtitle": "請提供任何您想與群組分享的額外備註。",
+    "save": "儲存",
+    "join": "加入",
+    "saveSuccess": {
+      "title": "已儲存！",
+      "subtitle": "您的資訊已成功儲存。"
+    }
+  },
+  "groupName": "群組名稱",
+  "me": "我"
+}

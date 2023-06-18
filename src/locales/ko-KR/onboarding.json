@@ -1,0 +1,57 @@
+{
+  "joinPath": {
+    "title": "센드타임을 처음 알게된 경로는 무엇인가요?",
+    "description": "다중 선택 가능합니다.",
+    "paths": [
+      "지인 추천/사내추천",
+      "디스콰이엇",
+      "인터넷 검색",
+      "센드타임을 통해 미팅을 예약해본 경험을 통해",
+      "센드타임/스플랩 인스타그램",
+      "스플랩/센드타임 팀 블로그",
+      "한국 오픈 카톡방",
+      "링크드인",
+      "트위터"
+    ],
+    "other": "직접 입력해주세요.",
+    "next": "다음"
+  },
+  "integrateCalendar": {
+    "title": "자주 쓰는 캘린더를 연동하세요.",
+    "subtitle": "캘린더를 연동하면\n센드타임에 실시간으로 업데이트됩니다.",
+    "skip": "다음에 연동하기",
+    "pleaseWait": "캘린더를 연동 중입니다.\n일정 규모에 따라 최대 1-2분의 시간이 소요됩니다.\n새로고침(F5)을 누르지 마세요."
+  },
+  "calendarCategory": {
+    "title": "연동할 카테고리를 선택해주세요.",
+    "description": "캘린더를 연동하면\n센드타임에 실시간으로 업데이트됩니다.",
+    "account": "계정의 캘린더",
+    "integrate": "다음"
+  },
+  "calendarName": {
+    "google": "구글 캘린더",
+    "outlook": "Outlook 플러그인"
+  },
+  "timeSetting": {
+    "title": "예약 페이지에\n공개할 시간을 설정해주세요.",
+    "availableTime": "가능한 시간",
+    "availableTimeDescription": "예약자는 아래 시간 범위 외의 시간에 예약을 신청할 수 없습니다.",
+    "availableTimeAlert": "설정 불가능한 시간 범위입니다.",
+    "availableDay": "가능한 요일",
+    "availableDayDescription": "예약자는 아래 선택된 요일 외의 요일에 예약을 신청할 수 없습니다.",
+    "dontWorry": "걱정하지 마세요!\n앞으로 예약 페이지를 만들 때 마다 공개할 시간 설정을 새로 할 수 있습니다.",
+    "skip": "나중에하기",
+    "next": "다음"
+  },
+  "setURL": {
+    "subtitle": "이제 마지막으로,",
+    "title": "나만의 센드타임 예약 페이지 URL을 만드세요.",
+    "next": "Next",
+    "duplicated": "이미 사용중인 URL입니다. 다른 URL을 입력해주세요."
+  },
+  "message": {
+    "MAX_URL": "최대 15자 까지 가능합니다.",
+    "ENG_NUM": "영어, 숫자만 입력이 가능합니다.",
+    "EMPTY": "URL을 입력해주세요."
+  }
+}

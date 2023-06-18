@@ -1,0 +1,156 @@
+{
+  "slotSelected": "khéo chọn",
+  "rank": {
+    "1": "thứ nhất",
+    "2": "thứ hai",
+    "3": "thứ ba",
+    "4": "thứ tư",
+    "5": "thứ năm",
+    "6": "thứ sáu",
+    "7": "thứ bảy",
+    "8": "thứ tám",
+    "9": "thứ chín",
+    "10": "thứ mười"
+  },
+  "location": {
+    "value": "Địa điểm",
+    "placeholder": "Bất kỳ địa điểm ưa thích nào khác.",
+    "alert": {
+      "link": " sẽ gửi cho bạn một liên kết sớm.",
+      "phone": " sẽ liên hệ với bạn sớm."
+    }
+  },
+  "reason": "Lý do đặt",
+  "message": "Tin nhắn",
+  "preview": {
+    "description": "Chọn khoảng thời gian trống trên lịch",
+    "standardTime": "Mục đố: GMT+09:00, Hàn Quốc - Seoul",
+    "timezone": "Múi giờ: ",
+    "showingTimes": "Thời gian hiển thị trong",
+    "location": {
+      "alert": "Xin hãy cho tôi biết nơi bạn muốn gặp nhau, trên trang kế tiếp.",
+      "phone": "Cuộc gọi điện thoại"
+    },
+    "chooseFrom": {
+      "leading": "Chọn từ ",
+      "trailing": ""
+    }
+  },
+  "alert": {
+    "selectAgain": "Vui lòng chọn lại thời gian đặt bàn của bạn.",
+    "fill": {
+      "name": "Vui lòng điền vào trường bắt buộc bên trên.",
+      "organization": "Vui lòng điền vào trường bắt buộc bên trên.",
+      "phone": "Vui lòng điền vào trường bắt buộc bên trên.",
+      "email": "Vui lòng điền vào trường bắt buộc bên trên.",
+      "location": "Vui lòng điền vào trường địa điểm bên dưới."
+    },
+    "invalid": {
+      "phone": "Vui lòng chỉ nhập số.",
+      "email": "Địa chỉ email không hợp lệ."
+    },
+    "confirm": {
+      "alreadyDone": "Đặt bàn này đã được xác nhận trước đó."
+    },
+    "cancel": {
+      "alreadyDone": "Đặt bàn này đã được hủy trước đó."
+    },
+    "doubleBooked": {
+      "alreadyDone": "Đặt bàn đã được xác nhận.",
+      "continue": "Đặt bàn này đã được xác nhận. \n Bạn có chắc chắn muốn xác nhận đặt bàn của mình?",
+      "buttonText": "Xác nhận bắt buộc"
+    },
+    "inactivated": "Trang đặt bàn này đã bị vô hiệu hóa bởi chủ nhà.",
+    "deleted": "Trang đặt bàn này đã bị xóa bởi chủ nhà."
+  },
+  "completed": {
+    "title": "Sự kiện đã được xác nhận!",
+    "description": "Chúng tôi đã gửi email thông báo cho chủ nhà và khách mời.",
+    "freeTrial": {
+      "leading": "Chúng tôi cung cấp dịch vụ dùng thử miễn phí cho khách mời đến đây.",
+      "bold": "Đăng ký ngay để miễn phí và mở khóa tất cả các tính năng.",
+      "trailing": ""
+    },
+    "emailBoxTitle": "Lịch hẹn dễ dàng, hợp tác",
+    "button": "Đăng ký miễn phí",
+    "emailBoxHelpText": "Không cần thẻ tín dụng.",
+    "nextTime": "Có thể sau"
+  },
+  "change": {
+    "title": "Bạn có muốn thay đổi lịch hẹn này?",
+    "description": "Tất cả các người tham dự sẽ nhận được email thông báo tự động.",
+    "reason": "Lý do thay đổi",
+    "placeholder": "Tối đa 3.000 ký tự",
+    "button": "Cập nhật sự kiện"
+  },
+  "cancel": {
+    "title": "Bạn có muốn hủy sự kiện này?",
+    "description": "Tất cả các người tham dự sẽ nhận được email thông báo tự động.",
+    "reason": "Lý do hủy",
+    "placeholder": "Tối đa 3.000 chữ",
+    "button": "Cập nhật sự kiện"
+  },
+  "reselect": {
+    "title": "Bạn có muốn chọn lại?",
+    "description": {
+      "leading": "Chọn một trong các thời gian được đề xuất bên dưới.",
+      "trailing": "Tất cả các người tham dự sẽ nhận được email thông báo tự động."
+    },
+    "button": "Cập nhật sự kiện"
+  },
+  "confirm": {
+    "title": "Xác nhận sự kiện.",
+    "description": {
+      "leading": "Chọn một trong các thời gian được đề xuất bên dưới. ",
+      "trailing": "Tất cả các người tham dự sẽ nhận được email thông báo tự động."
+    },
+    "button": "Cập nhật sự kiện"
+  },
+  "emailComplete": {
+    "type": {
+      "confirm": "Sự kiện đã được xác nhận!",
+      "cancel": "Sự kiện đã bị hủy!",
+      "change": "Sự kiện đã được thay đổi!"
+    },
+    "content": {
+      "leading": "Chúng tôi đã gửi cho bạn và khách mời một email thông báo.",
+      "middle": "Vui lòng liên hệ với chúng tôi để được trợ giúp nếu có ai đó bị lỡ email.",
+      "trailing": ""
+    },
+    "button": {
+      "home": "Lịch của tôi",
+      "schedule": "Các sự kiện đã lên lịch"
+    },
+    "cs": {
+      "email": "Email",
+      "slack": "Kênh Slack",
+      "phone": "Số CSKH"
+    }
+  },
+  "chooseMoreTime": {
+    "title": "Có vẻ như bạn có thể chọn nhiều hơn một khung giờ!",
+    "description": {
+      "leading": "Tốt nhất nếu bạn đề xuất nhiều khung giờ trước khi gửi.",
+      "trailing": ""
+    },
+    "buttonText": "Sẽ làm",
+    "skip": "Đây là duy nhất khung giờ mà tôi có thể đề xuất."
+  },
+  "bannerImage": "không_có_thời_gian_khả_dụng_lang(vi)",
+  "mobile": {
+    "description": "Chọn từ các thời gian được đề xuất bên dưới.",
+    "button": "Gửi",
+    "showMore": "Xem thêm",
+    "showLess": "Thu gọn"
+  },
+  "noTimeBtn": "Cần lựa chọn khác?",
+  "confirmMessage": {
+    "title": "Thêm một thông điệp!",
+    "subtitle": "",
+    "placeholder": "Thêm một lời nhắn cá nhân vào thông báo xác nhận của bạn."
+  },
+  "form": {
+    "title": "Đặt một sự kiện",
+    "subTitle": "Thông tin người đăng ký"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Mời Người Tham Gia",
+  "subtitle": "Nhập thông tin của những người mà bạn muốn mời tham gia nhóm. Một lời mời sẽ được gửi đến email của họ.",
+  "inviteMessage": "Tin Nhắn Tùy Chỉnh",
+  "list": {
+    "title": "Người sẽ được thêm",
+    "numberOfPeople": "",
+    "add": "Thêm"
+  },
+  "btn": {
+    "confirm": "Gửi",
+    "cancel": "Hủy"
+  },
+  "input": {
+    "name": {
+      "value": "Tên",
+      "placeholder": "John"
+    },
+    "email": {
+      "value": "Email",
+      "placeholder": "tên@gmail.com"
+    }
+  },
+  "modal": {
+    "title": "Đã Gửi Lời Mời!",
+    "description": "Thành viên đã được thông báo về lời mời của họ qua email. \nBạn có thể kiểm tra trạng thái của lời mời trong tab 'Cài Đặt Thành Viên'.",
+    "btn": "Xem trạng thái lời mời"
+  },
+  "alert": {
+    "duplicate": ", người dùng này đã có trong nhóm nên chúng tôi không thể gửi lại lời mời. Tất cả mọi người khác đã nhận được lời mời thành công."
+  }
+}

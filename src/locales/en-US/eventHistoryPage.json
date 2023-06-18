@@ -1,0 +1,77 @@
+{
+  "upcoming": {
+    "title": "Upcoming",
+    "noEvent": "No upcoming events"
+  },
+  "pending": {
+    "title": "Pending",
+    "noEvent": "No pending events"
+  },
+  "passed": {
+    "title": "Passed",
+    "noEvent": "No passed events"
+  },
+  "eventInfo": {
+    "name": "Invitee",
+    "email": "Email",
+    "phone": "Phone number",
+    "purpose": "Reason for booking",
+    "message": "Message",
+    "venue": "Location"
+  },
+  "groupInfo": {
+    "title": "Group Name",
+    "attendee": "Attendee"
+  },
+  "seemMore": "See More",
+  "confirm": "Confirm",
+  "reschedule": "Reschedule",
+  "cancel": "Cancel",
+  "reasonForCancel": "Reason for cancelation",
+  "reasonForReschedule": "Reason for rescheduling",
+  "message": {
+    "delete": {
+      "title": "Are you sure you want to delete this booking page?",
+      "subtitle": "You will not be able to retrieve the event data once deleted.\nEvents received through this booking page will not be deleted, and they can not be confirmed, rescheduled or canceled."
+    },
+    "deactivate": {
+      "title": "Are you sure you want to deactivate this page?",
+      "subtitle": "If you deactivate it, you won't be able to receive events to this booking page.",
+      "btn": "Deactivate"
+    },
+    "confirm": {
+      "title": "Are you sure you want to activate this page?",
+      "subtitle": "Once enabled, you can receive events to the booking page.",
+      "btn": "Activate"
+    }
+  },
+
+  "exportBtn": "Export",
+  "editBtn": "Edit",
+  "deleteBtn": "Delete",
+  "duration": "",
+  "option": "",
+  "howmany": " Options",
+  "URLcopy": "Copy link",
+  "customPage": "Custom Page",
+  "activate": "Activate",
+  "hour": " Hour",
+  "min": " Minute",
+  "canceledEvent": "Canceled",
+  "editedEvent": "Rescheduled",
+  "priority": "nd",
+  "exportModal": {
+    "title": "Export",
+    "withButton": "Copy as a button",
+    "withButtonDescription": "Copy the code and paste it into a booking page button.",
+    "withQR": "Export as QR code",
+    "withQRDescription": "Copy the booking page as a QR code and paste it onto wherever you want.",
+    "copyBtn": "Copy",
+    "preview": "Preview",
+    "imageAltText": "Sendtime Booking Page"
+  },
+  "confirmModal": {
+    "Btndescription": "\n When sending an email, \n you can paste the code into the HTML editor.",
+    "QRDescription": "\n You can also paste images where necessary."
+  }
+}

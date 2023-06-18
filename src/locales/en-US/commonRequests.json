@@ -1,0 +1,24 @@
+{
+  "refresh": "Please Refresh and Try Again",
+  "memberError": {
+    "title": "Users who have left the service exist in this group.",
+    "description": "If you continue to experience similar issues,\nplease do not hesitate to contact us at help@splab.dev for assistance."
+  },
+  "goingBackAlertforGroup": "The booking page you were building will disappear and you'll return to previous page.\nWant to go back?",
+  "googleCalendarPermissionRequired": "Please give permission for Google calendar integrations.",
+  "serverError": "Something went wrong. Please try again later. If the problem persists, please contact support(help@splab.dev).",
+  "404": {
+    "title": "Oops! We're sorry, but the page you're looking for can't be found.\nIt's possible that the page has been moved or deleted, or that you mistyped the URL.\nIf the problem persists, please don't hesitate to contact our support team (help@splab.dev) for assistance.\nWe're here to help you find what you need!",
+    "btn": "Back to Home"
+  },
+  "deletedPage": {
+    "title": "This is a deleted booking page.",
+    "subtitle": "This page has been deleted, and it is no longer possible to make changes to your event. You can only confirm or cancel it. \nIf you have any inquiries, please contact the booking page host.",
+    "btn": "Back to Home"
+  },
+  "deactivatedPage": {
+    "title": "This is a deactivated booking page.",
+    "subtitle": "This page has been deactivated by the host, \nIf you have any inquiries, please contact the booking page host.",
+    "btn": "Back to Home"
+  }
+}

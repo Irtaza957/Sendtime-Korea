@@ -1,0 +1,52 @@
+{
+  "title": "Member Setting",
+  "tab": {
+    "members": "Members",
+    "status": "Invitation Status"
+  },
+  "guide": {
+    "title": "You can see the status of invitations for people you've invited to the group. If you cancel an invitation They won't be able to join the group.",
+    "invite": "Invite"
+  },
+  "modal": {
+    "cancelInvite": {
+      "title": "Are you sure you want to cancel the invitation?",
+      "subtitle": "If you cancel an invitation, the member will not be able to join the group through the invitation email sent to them.",
+      "btn": "Cancel Invitation"
+    },
+    "leaveGroup": {
+      "title": "Do you want to leave the group?",
+      "subtitle": "If you leave a group, you'll no longer have access to the group calendar or group bookings page, and you won't receive notifications for bookings made to that group.",
+      "btn": "Leave"
+    },
+    "memberStatus": {
+      "leave": "Leave Group",
+      "remove": "Remove",
+      "pending": "Pending",
+      "invitationExpire": "Invitation expired"
+    }
+  },
+  "editMyInfo": "Edit",
+  "message": {
+    "leftGroup": "Successfully left the group."
+  },
+  "cancel": "Cancel Invitation",
+  "editModal": {
+    "title": "Update My Profile",
+    "notEditingModeTitle": "My Profile",
+    "subtitle": "Please enter your personal information to be shared among group members.",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "memoTitle": "Memo",
+    "memoSubtitle": "Please provide any additional memo you would like to share with the group",
+    "save": "Save",
+    "join": "Join",
+    "saveSuccess": {
+      "title": "Saved!",
+      "subtitle": "Successfully saved your information."
+    }
+  },
+  "groupName": "Group Name",
+  "me": "Me"
+}

@@ -1,0 +1,48 @@
+{
+  "startStep": {
+    "signUp": "註冊",
+    "signUpWithEmail": "使用電子郵件註冊",
+    "signUpWithGoogle": "使用 Google 帳戶註冊",
+    "or": "或者",
+    "alreadyHaveAnAccount": "已經有帳戶了？",
+    "login": "登入"
+  },
+  "emailPwStep": {
+    "createYourAccount": "創建您的帳戶",
+    "email": "電子郵件",
+    "emailPlaceholder": "輸入您的電子郵件",
+    "password": "密碼",
+    "passwordPlaceholder": "設定您的密碼",
+    "yourPasswordMustContain": "密碼必須包含以下內容：",
+    "minimum8Characters": " • 至少 8 個字符",
+    "next": "下一步",
+    "alert": "註冊即表示您同意 <terms>服務條款</terms> 和 <privacy>隱私政策</privacy>。"
+  },
+  "userInfoStep": {
+    "tellMeAboutYou": "告訴我更多關於您的資訊",
+    "email": "電子郵件",
+    "name": "姓名",
+    "namePlaceholder": "輸入您的姓名",
+    "timezone": "時區",
+    "phoneNumber": "電話號碼",
+    "phoneNumberPlaceholder": "010-0000-0000",
+    "phoneNumberDescription": "輸入您的電話號碼以接收自動通知。",
+    "signUp": "註冊"
+  },
+  "emailVerificationStep": {
+    "checkYourEmail": "檢查您的電子郵件",
+    "emailSentTo": "我們已發送一封郵件至<br /><email>{{email}}</email>",
+    "clickOnTheLink": "點擊電子郵件中的按鈕以開始使用！",
+    "resendEmail": "重新發送郵件",
+    "successTitle": "電子郵件驗證成功",
+    "successDescription": "現在您可以登入您的帳戶了。",
+    "failed": "電子郵件驗證失敗。請重試。"
+  },
+  "alert": {
+    "emailInputForm": "請輸入有效的電子郵件地址",
+    "passwordMinLength": "密碼必須至少包含 8 個字符",
+    "nameInputCharacter": "僅限使用英文和韓文字符",
+    "phoneNumberLength": "電話號碼必須是 10 位數字",
+    "duplicatedEmail": "此電子郵件已註冊"
+  }
+}

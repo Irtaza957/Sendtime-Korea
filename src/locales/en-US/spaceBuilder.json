@@ -1,0 +1,68 @@
+{
+  "space": {
+    "spacePageTitle": "My Spaces",
+    "needCustom": "Personalize your Space 🚀",
+    "createEventSpace": "Create",
+    "spaceCardTitle": "List",
+    "edit": "Edit",
+    "noResultText": "No results Found"
+  },
+  "addEdit": {
+    "handleHelpText": "This will follow the URL 'www.sendtime.app/space/@____",
+    "iconHelpText": "Only png and jpg files are allowed.",
+    "title": "Title",
+    "handle": {
+      "handle": "Space URL handle",
+      "follow": "This will follow the URL “www.sendtime.app/space/@_____”"
+    },
+    "icon": {
+      "label": "Icon Image",
+      "allowed": "Only png and jpg files are allowed."
+    },
+    "description": "Description",
+    "contact": {
+      "info": "Contact information",
+      "email": "Email",
+      "phone": "Phone Number",
+      "website": "Website"
+    },
+    "one": "1",
+    "two": "2",
+    "three": "3",
+    "four": "4",
+    "five": "5",
+    "additionalSettings": "Additional Settings",
+    "additionalOptions": {
+      "cardsToBeShown": "I want participant's cards to be shown...",
+      "inRandom": "In random",
+      "inAlphabetical": "In alphabetical order",
+      "needReactionButtons": "I need reaction buttons on each card",
+      "yes": "Yes",
+      "no": "No",
+      "allowPeopleWhoCreatedCards": "Allow only people who created cards can view & request a meeting.",
+      "accessControl": "Access Control",
+      "public": "Public",
+      "accessWithPassword": "Access with password"
+    }
+  },
+  "custom": {
+    "customSpaceTitle": "Check your published event page!"
+  },
+  "examplePage": "Sample Space",
+  "needHelp": "Need help?",
+  "publish": "Publish to web",
+  "editLater": "You can personalize right after!",
+  "editSpace": "Edit Space",
+  "createSpace": "Create Space",
+  "goBack": "Go back to home",
+  "editPageAt": "You can edit your page at",
+  "spaceHome": "space home.",
+  "needMoreCustom": "Do you need more custom?",
+  "contactSales": "Contact Sales",
+  "updateErrorMessage": "Sorry, we were unable to update your space, please refresh and try again. If you continue to receive this error, please contact us at help@splab.dev.",
+  "createErrorMessage": "Sorry, we were unable to create your space, please refresh and try again. If you continue to receive this error, please contact us at help@splab.dev.",
+  "alert": {
+    "successSpaceCreate": "Space created successfully",
+    "successSpaceUpdate": "Space updated successfully"
+  }
+}

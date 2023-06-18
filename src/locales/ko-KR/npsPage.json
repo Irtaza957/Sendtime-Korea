@@ -1,0 +1,24 @@
+{
+  "question1": "방금 예약경험이 얼마나 만족스러우셨나요?",
+  "npsBad": "매우 불만족",
+  "npsGood": "만족",
+  "question2": "저희 제품 및 서비스의 어떤 부분이 불편하셨나요?",
+  "answersForQuestion2": {
+    "1": "어떻게 사용해야하는지 쉽게 알 수 없었어요",
+    "2": "조작법이 어려웠어요",
+    "3": "에러 또는 버그를 경험했어요",
+    "4": "다른 이유가 있어요"
+  },
+  "question3": {
+    "title": "저희 제품 및 서비스 개선을 위한 의견을 남겨 주세요.",
+    "subtitle": "남겨주신 의견은 꼼꼼히 검토하여 적극적으로 반영하겠습니다."
+  },
+  "placeholder": "이용 중 불편하셨던 점이나 센드타임에 필요한 기능을 제안해주세요 :)",
+  "closing": {
+    "title": "소중한 의견 감사합니다!",
+    "subtitle": "꼼꼼히 검토하여 적극적으로 반영하겠습니다.",
+    "joinGuide": "다양한 사람들과 새로운 아이디어를\n센드타임 슬랙 커뮤니티에서 공유해보세요! ✨",
+    "joinBtn": "센드타임 슬랙 커뮤니티 가기",
+    "joinLink": "https://join.slack.com/t/sendtimecommunity/shared_invite/zt-1fkz6a45w-ZaOyBeBWccqkNh7PsmIDfw"
+  }
+}

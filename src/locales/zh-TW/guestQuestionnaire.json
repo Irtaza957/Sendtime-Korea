@@ -1,0 +1,71 @@
+{
+  "addQuestionButton": "新增問題 +",
+  "formQuestion": {
+    "typeYourAnswer": "輸入你的答案",
+    "fileUpload": {
+      "file": "檔案",
+      "UploadFile": "上傳檔案",
+      "maxSize": "最大 10MB"
+    }
+  },
+  "settings": {
+    "setting": "設定",
+    "changeQuestion": "修改問題",
+    "required": "必填",
+    "answers": "答案",
+    "addAnswers": "新增答案",
+    "addOthers": "新增「其他」",
+    "emptyFieldMessage": "請在創建之前更新所有更改。",
+    "cancel": "取消",
+    "apply": "套用",
+    "deleteThisQuestion": "刪除此問題"
+  },
+  "preview": {
+    "previewTitle": "輸入細節",
+    "previewDescription": "賓客資訊"
+  },
+  "fileUploadErr": {
+    "message": "檔案上傳失敗",
+    "description": "請壓縮您的文件，然後重試。",
+    "ok": "好的"
+  },
+  "addQuestion": {
+    "addAQuestion": "新增問題",
+    "answerType": "答案類型",
+    "question": "問題",
+    "required": "必填",
+    "writeQuestion": "撰寫問題",
+    "answers": "答案",
+    "addAnswers": "新增答案",
+    "emptyFieldMessage": "請在創建之前更新所有更改。",
+    "sameFieldMessage": "不能添加相同的選項。",
+    "addOthers": "新增「其他」",
+    "cancel": "取消",
+    "apply": "套用",
+    "other": "別的",
+    "questionTypeOptions": {
+      "shortAnswer": "簡答",
+      "paragraph": "段落",
+      "name": "名字",
+      "email": "電子郵件",
+      "phoneNumber": "電話號碼",
+      "multipleOptions": "多重選項",
+      "checkBoxes": "核取方塊",
+      "dropdown": "下拉選單",
+      "fileUpload": "檔案上傳"
+    },
+    "defaultQuestions": {
+      "name": "名字",
+      "email": "電子郵件",
+      "phoneNumber": "電話號碼",
+      "leaveMessage": "留言"
+    }
+  },
+  "alert": {
+    "invalidEmail": "請輸入有效的電子郵件以繼續。",
+    "invalidPhone": "請輸入有效的電話號碼以繼續。",
+    "emptyField": "請填寫上方的必填欄位。",
+    "location": "请填写下面的位置字段。",
+    "onlyImage": "「不是有效的圖像檔案。請上傳 png 或 jpg 檔案。"
+  }
+}

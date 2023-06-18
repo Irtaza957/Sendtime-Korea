@@ -1,0 +1,74 @@
+{
+  "logout": "로그아웃",
+  "prev": "뒤로",
+  "confirm": "완료",
+  "next": "다음",
+  "edit": "수정하기",
+  "create": "만들기",
+  "cancel": "취소",
+  "delete": "삭제",
+  "confirm2": "확인",
+  "allday": "종일 일정",
+  "submit": "제출",
+  "close": "닫기",
+  "notAvailable": "요청 불가",
+  "am": "오전",
+  "pm": "오후",
+  "calendarLoading": "캘린더 일정 정보 양에 따라\n최대 1-2분의 시간이 소요됩니다.",
+  "min": "분",
+  "hour": "시간",
+  "nav_items": {
+    "MY_CALENDAR": "내 캘린더",
+    "GROUP_CALENDAR": "그룹 캘린더",
+    "SPACE": "Space",
+    "MY_RESERVATION": "내 예약 일정",
+    "MANAGE": "예약 페이지 관리",
+    "MY_PAGE": "설정 및 마이페이지"
+  },
+  "buttons": {
+    "calendarSync": "일정 동기화",
+    "createBookingPage": "예약 페이지 만들기"
+  },
+  "titleForPages": {
+    "createBookingPage": "예약 페이지 만들기",
+    "editBookingPage": "예약 페이지 수정하기"
+  },
+  "banner": {
+    "guide": "🤔 사용이 어려우신가요? 사용가이드 확인하러 가기",
+    "slackCommunity": "필요한 기능이 있나요? 센드타임 커뮤니티에서 요청해주세요."
+  },
+  "errorMessage": {
+    "editBookingPageError": "예약페이지를 수정할 수 없습니다. 새로고침 후 다시 시도해주세요. 만약 이 오류가 계속 발생한다면 help@splab.dev로 연락주시기 바랍니다.",
+    "createBookingPageError": "예약페이지를 만들 수 없습니다. 새로고침 후 다시 시도해주세요. 만약 이 오류가 계속 발생한다면 help@splab.dev로 연락주시기 바랍니다."
+  },
+  "successMessage": {
+    "createdBookingPage": "😉 예약페이지가 만들어졌습니다!",
+    "createdGroupBookingPage": "😉 그룹 예약페이지가 만들어졌습니다!",
+    "copy": {
+      "title": "복사에 성공했습니다.",
+      "subtitle": "성공적으로 복사되었습니다.",
+      "fail": "복사에 실패했습니다."
+    }
+  },
+  "modal": {
+    "leaveSendtime": {
+      "title": "회원 탈퇴가 필요하신가요?",
+      "subtitle": "여기(help@splab.dev)로 연락해주세요.\n스플랩 팀이 도와드리겠습니다."
+    }
+  },
+  "noBookingPageGuide": "생성된 예약 페이지가 없습니다.",
+  "error": "오류가 발생했습니다. 다시 시도해주세요!",
+  "timezone": {
+    "saveConfirmTitle": "선택한 시간대를 저장하시겠습니까?",
+    "saveConfirmDescription": "이미 만들어진 모든 예약페이지가 선택된 시간대 기준으로 수정됩니다."
+  },
+  "weekdays": {
+    "monday": "월요일",
+    "tuesday": "화요일",
+    "wednesday": "수요일",
+    "thursday": "목요일",
+    "friday": "금요일",
+    "saturday": "토요일",
+    "sunday": "일요일"
+  }
+}

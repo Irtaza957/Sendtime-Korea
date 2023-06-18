@@ -1,0 +1,23 @@
+{
+  "title": "Danh sách lịch nhóm",
+  "createBtn": "Tạo nhóm mới",
+  "message": {
+    "noGroups": "Chưa có lịch nhóm nào được tạo. \nHãy tạo nhóm và bắt đầu sử dụng Sendtime cho nhóm!",
+    "missingURL": {
+      "title": "Lỗi!",
+      "description": "Chúng tôi không thể tạo trang đặt lịch của bạn vì bạn đang thiếu một số thông tin trong quá trình đăng ký. \nHãy tạo một URL tùy chỉnh cho liên kết tới trang hồ sơ cá nhân của bạn."
+    },
+    "deleteWarning": {
+      "title": "Bạn có chắc chắn muốn xóa?",
+      "description": "Nếu bạn xóa nhóm, bạn sẽ không thể nhận được sự kiện trên trang đặt lịch của nhóm,\nBạn sẽ không thể xác nhận, thay đổi hoặc hủy bất kỳ sự kiện nào bạn đã nhận được từ nhóm đó."
+    }
+  },
+  "columns": {
+    "name": "Tên",
+    "createDateTime": "Thời gian tạo",
+    "memberCount": "Số thành viên",
+    "calendarOpenPeriod": "Thời gian mở lịch"
+  },
+  "manage": "Cài đặt",
+  "delete": "Xóa"
+}

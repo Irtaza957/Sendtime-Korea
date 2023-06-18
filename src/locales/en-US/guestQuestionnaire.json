@@ -1,0 +1,71 @@
+{
+  "addQuestionButton": "Add new Question +",
+  "formQuestion": {
+    "typeYourAnswer": "Type your Answer",
+    "fileUpload": {
+      "file": "File",
+      "UploadFile": " Upload File",
+      "maxSize": "Max. 10MB"
+    }
+  },
+  "settings": {
+    "setting": "Setting",
+    "changeQuestion": "Change Question",
+    "required": "Required",
+    "answers": "Answers",
+    "addAnswers": "Add Answers",
+    "addOthers": "Add 'Other'",
+    "emptyFieldMessage": "Please update all your changes before creating.",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "deleteThisQuestion": "Delete This Question"
+  },
+  "preview": {
+    "previewTitle": "Enter details",
+    "previewDescription": "Guest information"
+  },
+  "fileUploadErr": {
+    "message": "Fail to upload file",
+    "description": "Please compress your file and try again.",
+    "ok": "Ok"
+  },
+  "addQuestion": {
+    "addAQuestion": "Add a Question",
+    "answerType": "Answer Type",
+    "question": "Question",
+    "required": "Required",
+    "writeQuestion": "Write a Question",
+    "emptyFieldMessage": "Please update all your changes before creating.",
+    "sameFieldMessage": "Same options cant be added.",
+    "answers": "Answers",
+    "addAnswers": "Add Answers",
+    "addOthers": "Add 'Other'",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "other": "Other",
+    "questionTypeOptions": {
+      "shortAnswer": "short answer",
+      "paragraph": "paragraph",
+      "name": "name",
+      "email": "email",
+      "phoneNumber": "phone number",
+      "multipleOptions": "multiple options",
+      "checkBoxes": "check boxes",
+      "dropdown": "dropdown",
+      "fileUpload": "file upload"
+    },
+    "defaultQuestions": {
+      "name": "Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "leaveMessage": "Leave a Message"
+    }
+  },
+  "alert": {
+    "invalidEmail": "Please enter a valid email to proceed.",
+    "invalidPhone": "Please enter a valid phone number to proceed.",
+    "emptyField": "Please fill out the required field above.",
+    "location": "Please fill out the location field below.",
+    "onlyImage": "Not a valid image. Please upload a png or jpg file."
+  }
+}

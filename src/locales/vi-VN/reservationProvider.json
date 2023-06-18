@@ -1,0 +1,14 @@
+{
+  "min": " Phút",
+  "alert": {
+    "retry": {
+      "message": "Không thể tạo trang đặt lịch. \nVui lòng làm mới trang và thử lại. \nNếu bạn gặp phải lỗi này một lần nữa, vui lòng liên hệ với help@splab.dev"
+    },
+    "createURL": {
+      "title": "Oops!",
+      "message": "Không thể tạo trang đặt lịch do thiếu URL tùy chỉnh trong bước đăng ký.\nVui lòng tạo một URL tùy chỉnh để liên kết đến trang hồ sơ của bạn."
+    },
+    "goingBack": "Trang đặt lịch bạn đang xây dựng sẽ biến mất và bạn sẽ trở lại Trang Lịch của tôi.\nBạn có muốn quay lại không?"
+  },
+  "placeholder": ": Phiên hẹn 30 phút"
+}

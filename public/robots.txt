@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /reservation
+Disallow: /beta
+Disallow: /group
+Disallow: /splab/
+Disallow: /payment
+Disallow: /payment/

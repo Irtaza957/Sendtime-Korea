@@ -1,0 +1,76 @@
+{
+  "upcoming": {
+    "title": "예정된 일정",
+    "noEvent": "예정된 일정이 없습니다."
+  },
+  "pending": {
+    "title": "일정 요청",
+    "noEvent": "요청된 일정이 없습니다."
+  },
+  "passed": {
+    "title": "지난 일정",
+    "noEvent": "지난 일정이 없습니다."
+  },
+  "eventInfo": {
+    "name": "예약자",
+    "email": "이메일",
+    "phone": "전화번호",
+    "purpose": "예약 목적",
+    "message": "추가 전달 사항",
+    "venue": "장소"
+  },
+  "groupInfo": {
+    "title": "그룹 이름",
+    "attendee": "참석자"
+  },
+  "seemMore": "상세보기",
+  "confirm": "예약 확정",
+  "reschedule": "예약 변경",
+  "cancel": "예약 취소",
+  "reasonForCancel": "취소사유",
+  "reasonForReschedule": "변경사유",
+  "message": {
+    "delete": {
+      "title": "해당 예약페이지를 삭제하시겠습니까?",
+      "subtitle": "삭제 후 복구가 불가능하며, 더이상 접근하거나 예약을 받을 수 없습니다.\n해당 예약페이지로 받은 예약은 삭제되지 않지만, 확정/변경/취소가 불가능합니다."
+    },
+    "deactivate": {
+      "title": "해당 페이지를 비활성화하시겠습니까?",
+      "subtitle": "비활성화하면 해당 예약페이지로 예약을 받을 수 없습니다.",
+      "btn": "비활성화"
+    },
+    "confirm": {
+      "title": "해당 페이지를 활성화하시겠습니까?",
+      "subtitle": "활성화하면 해당 예약페이지로 예약을 받을 수 있습니다.",
+      "btn": "활성화"
+    }
+  },
+  "exportBtn": "내보내기",
+  "editBtn": "페이지 수정",
+  "deleteBtn": "페이지 삭제",
+  "duration": "동안",
+  "option": "옵션",
+  "howmany": "개",
+  "URLcopy": "URL 복사",
+  "customPage": "맞춤 예약페이지",
+  "activate": "활성화",
+  "hour": "시간",
+  "min": "분",
+  "canceledEvent": "취소된 일정",
+  "editedEvent": "변경된 일정",
+  "priority": "순위",
+  "exportModal": {
+    "title": "내보내기",
+    "withButton": "버튼으로 복사",
+    "withButtonDescription": "코드를 복사해서 예약 페이지를 버튼으로 붙여넣으세요.",
+    "withQR": "QR코드로 내보내기",
+    "withQRDescription": "예약페이지를 QR코드로 복사하여 화면에 붙여넣으세요.",
+    "copyBtn": "복사하기",
+    "preview": "미리보기",
+    "imageAltText": "센드타임 예약페이지"
+  },
+  "confirmModal": {
+    "Btndescription": "\n 이메일을 보내실 때 HTML 편집기에 \n 해당 코드를 붙여넣으실 수 있습니다.",
+    "QRDescription": "\n 필요하신 곳에 해당 이미지를 붙여넣으실 수 있습니다."
+  }
+}

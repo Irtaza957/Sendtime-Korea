@@ -1,0 +1,14 @@
+{
+  "min": " Min",
+  "alert": {
+    "retry": {
+      "message": "The booking page could not be created. \nPlease refresh and try again. \nIf you experience this error again, please contact help@splab.dev"
+    },
+    "createURL": {
+      "title": "Oops!",
+      "message": "Failed to create a booking page because custom URL is missing from the signup step.\nPlease create a custom URL to link to your profile page."
+    },
+    "goingBack": "The booking page you were building will disappear and you'll return to My Calendar.\nWant to go back?"
+  },
+  "placeholder": ": 30min session"
+}

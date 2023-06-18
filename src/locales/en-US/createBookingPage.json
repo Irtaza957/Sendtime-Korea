@@ -1,0 +1,87 @@
+{
+  "title": "Create Booking Page",
+  "bookingPageName": {
+    "title": "Booking page name",
+    "placeholder": ""
+  },
+  "description": {
+    "title": "Description/Instructions",
+    "placeholder": "Write a summary and any details your invitee should know about the event."
+  },
+  "dateRange": {
+    "title": "Date range",
+    "subtitle": "When can people book this meeting? Set a range of dates when you can accept meetings.",
+    "custom": "Enter number of days: From today",
+    "custom2": "days into the future",
+    "indefinite": "Indefinitely into the future",
+    "errorMessage": "A date range that cannot be set."
+  },
+  "duration": {
+    "title": "Duration",
+    "subtitle": "Define how long your event will be. It can be as long as 12 hours.",
+    "inputBoxPlaceHolder": "Search",
+    "toggleTitle": "Multiple",
+    "emptyMessage": "Please select one or more time units."
+  },
+  "location": {
+    "title": "Location",
+    "subtitle": "Add a location. You can add multiple locations that invitee can choose.",
+    "customField": {
+      "title": "Custom",
+      "placeholder": "Leave customized location details"
+    },
+    "addButton": "Add",
+    "googleMeetGuide": "(With Google integration, the Google Meet link will be sent automatically through sendtime).",
+    "zoomGuide": "(With Zoom integration, the Zoom link will be sent automatically through sendtime).",
+    "phoneCall": "Phone Call",
+    "askInterviewee": "Ask Interviewee"
+  },
+  "preview": {
+    "title": "Preview Page",
+    "subtitle": "Select open slots on the calendar."
+  },
+  "formPreview": {
+    "title": "Form Preview for Reservation Holder"
+  },
+  "timeSlotSetting": {
+    "title": "Invitee can send you time suggestions up to..",
+    "subtitle": "You can select from one to ten.",
+    "numberOfSlots": {
+      "1": "Up to 1 slot",
+      "2": "Up to 2 slots",
+      "3": "Up to 3 slots",
+      "4": "Up to 4 slots",
+      "5": "Up to 5 slots",
+      "6": "Up to 6 slots",
+      "7": "Up to 7 slots",
+      "8": "Up to 8 slots",
+      "9": "Up to 9 slots",
+      "10": "Up to 10 slots"
+    }
+  },
+  "availability": {
+    "title": "Availability setting",
+    "subtitle": "Define custom hours for your booking page's availability. \nInvitees can't request appointments outside of the day/time range selected below."
+  },
+  "buffer": {
+    "title": "Add time before or after your event.",
+    "subtitle": "Give yourself some buffer time to prepare for or wrap up from booked Sendtime events.",
+    "beforeEvent": "Before event",
+    "afterEvent": "After event"
+  },
+  "hideEventInfo": {
+    "title": "Masking calendar event information",
+    "subtitle": "You can make calendar event content public or private to the invitees."
+  },
+  "remind": {
+    "title": "Reminder Notification",
+    "subtitle": "When an event is confirmed, a reminder email is automatically sent to you and the invitee 1 day before the event for the confirmed event."
+  },
+  "customBlockingTimes": {
+    "guide": "Finally, if there are times when you don't want your invitee to book, \nplease drag&click on the calendar below to set a custom Do Not Disturb time."
+  },
+  "mobile": {
+    "prevideGuide": "Preview Page",
+    "blockingTimeGuide": "To Set Do Not Disturb time, head to the web."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "default": {
+    "title": "센드타임",
+    "description": "나와 우리 팀을 위한 쉽고 빠른 스케줄링 자동화 툴, 센드타임을 지금 무료로 체험해보세요."
+  },
+  "myCalendar": {
+    "title": "센드타임 | 내 캘린더",
+    "description": "내 캘린더에서 일정을 확인하고 방해 금지 시간을 설정해보세요."
+  },
+  "signin": {
+    "title": "센드타임 | 로그인",
+    "description": "로그인 후 서비스를 이용해보세요."
+  },
+  "signup": {
+    "title": "센드타임 | 회원가입",
+    "description": "회원가입 후 서비스를 이용해보세요."
+  },
+  "reservation": {
+    "title": "센드타임 | 예약 페이지 만들기",
+    "description": "예약 페이지를 만들어 예약을 받아보세요."
+  },
+  "reservationEdit": {
+    "title": "센드타임 | 예약 페이지 수정하기",
+    "description": "예약 페이지를 수정해보세요."
+  },
+  "group": {
+    "reservation": {
+      "title": "센드타임 | 그룹 예약 페이지 만들기",
+      "description": "그룹 예약 페이지를 만들어 예약을 받아보세요."
+    },
+    "reservationEdit": {
+      "title": "센드타임 | 그룹 예약 페이지 수정하기",
+      "description": "그룹 예약 페이지를 수정해보세요."
+    }
+  }
+}

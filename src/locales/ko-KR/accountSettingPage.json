@@ -1,0 +1,89 @@
+{
+  "save": "저장하기",
+  "account": {
+    "title": "계정",
+    "name": "이름",
+    "phoneNumber": "전화번호",
+    "email": "이메일",
+    "notiGuide": "센드타임 알림이 전송됩니다.",
+    "leave": "탈퇴하기",
+    "language": "언어"
+  },
+  "calendar": {
+    "title": "캘린더 연동",
+    "addBtn": "캘린더 추가하기",
+    "integratedCalendarList": {
+      "title": "연동된 캘린더 계정",
+      "deintegrate": "연결 끊기",
+      "warning": "계정을 연동해주세요.",
+      "deintegrateConfirm": "해당 캘린더 연결을 끊으시겠습니까?"
+    },
+    "eventIntegrated": {
+      "title": "일정을 연동할 캘린더",
+      "subtitle": "예약 페이지를 만들기 위해 내 일정을 가져올 캘린더를 선택하세요.",
+      "calendarAccount": "계정의 캘린더",
+      "edit": "편집"
+    },
+    "advanceSetting": {
+      "title": "연동할 일정 고급 설정",
+      "subtitle": "일정의 참석 여부를 기준으로 예약 페이지를 만들기 위해 가져올 내 일정을 선택할 수 있습니다.\n옵션 선택 시 자동 저장 후 모든 캘린더와 예약페이지에 반영됩니다.",
+      "option": {
+        "1": "'예'(참석)인 일정",
+        "2": "'아니요'(불참)인 일정",
+        "3": "'대기'인 일정",
+        "4": "'미정'인 일정"
+      }
+    },
+    "addToCalendar": {
+      "title": "일정을 저장할 캘린더",
+      "subtitle": "센드타임에서 만들어진 일정을 저장할 캘린더를 선택하세요. 쓰기 권한이 있는 하나의 캘린더만 선택 가능합니다.",
+      "calendarAccount": "계정의 캘린더",
+      "warning": "일정을 저장할 캘린더를 선택해주세요.",
+      "edit": "편집"
+    }
+  },
+  "serviceIntegration": {
+    "title": "서비스 연동",
+    "integrated": "연동 완료",
+    "slack": {
+      "title": "Slack",
+      "subtitle": "내 모든 예약과 관련된 알림을 Slack으로 받습니다."
+    },
+    "zoom": {
+      "title": "Zoom",
+      "subtitle": "예약 확정 시 Zoom 화상 회의 링크를 자동으로 추가합니다."
+    },
+    "googleMeet": {
+      "title": "Google Meet",
+      "subtitle": "예약 확정 시 Google Meet 화상 회의 링크를 자동으로 추가합니다."
+    },
+    "googleSheet": {
+      "title": "Google Sheet (그룹)",
+      "subtitle": "Google Sheets에 모든 개인 예약 정보가 매일 오전 9시마다 자동으로 추가됩니다."
+    },
+    "googleSheet2": {
+      "title": "Google Sheet (3자 조율)",
+      "subtitle": "Google Sheets에 모든 3자 조율 예약 정보가 매일 오전 9시마다 자동으로 추가됩니다."
+    },
+    "googleSheet3": {
+      "title": "Google Sheet (개인)",
+      "subtitle": "Google Sheets에 모든 개인 예약 정보가 매일 오전 9시마다 자동으로 추가됩니다."
+    }
+  },
+  "myCalendarSetting": {
+    "title": "내 캘린더",
+    "availability": {
+      "title": "예약 시간대",
+      "subtitle": "예약 페이지에 공개할 시간을 설정해주세요.\n예약자는 아래 선택된 요일/시간 범위 외의 시간에 예약을 신청할 수 없습니다."
+    },
+    "favPlace": {
+      "title": "자주 가는 장소",
+      "subtitle": "자주 가는 장소로 설정해두면 예약 페이지 생성시, 간편하게 추가할 수 있습니다.",
+      "placeholder": "장소명을 입력해주세요",
+      "addBtn": "추가"
+    }
+  },
+  "message": {
+    "save": "내 정보가 저장되었어요."
+  }
+}

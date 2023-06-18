@@ -1,0 +1,89 @@
+{
+  "save": "Lưu",
+  "account": {
+    "title": "Thông tin cá nhân",
+    "name": "Họ tên",
+    "phoneNumber": "Số điện thoại",
+    "email": "Địa chỉ Email",
+    "notiGuide": "*(Thông báo sẽ được gửi.)",
+    "leave": "Thời gian rảnh",
+    "language": "Ngôn ngữ"
+  },
+  "calendar": {
+    "title": "Kết nối lịch",
+    "addBtn": "Thêm tài khoản lịch",
+    "integratedCalendarList": {
+      "title": "Tài khoản lịch của tôi",
+      "deintegrate": "Ngắt kết nối",
+      "warning": "Kết nối tài khoản lịch của bạn!",
+      "deintegrateConfirm": "Bạn có chắc muốn ngắt kết nối tài khoản lịch này không?"
+    },
+    "eventIntegrated": {
+      "title": "Kiểm tra xung đột",
+      "subtitle": "Đặt lịch(s) để kiểm tra xung đột để tránh đặt hai sự kiện cùng một lúc.",
+      "calendarAccount": "",
+      "edit": "Chỉnh sửa"
+    },
+    "advanceSetting": {
+      "title": "Chọn sự kiện dựa trên trạng thái của chúng.",
+      "subtitle": "Các sự kiện được chọn sẽ được áp dụng ngay lập tức vào lịch của bạn và sẵn có.",
+      "option": {
+        "1": "đã chọn 'Có'",
+        "2": "đã chọn 'Không'",
+        "3": "đã chọn 'Có thể'",
+        "4": "chưa quyết định"
+      }
+    },
+    "addToCalendar": {
+      "title": "Thêm vào lịch",
+      "subtitle": "Đặt lịch mà bạn muốn thêm sự kiện mới khi được lập lịch.",
+      "calendarAccount": "",
+      "warning": "Chọn lịch mà bạn muốn thêm sự kiện của Sendtime vào.",
+      "edit": "Chỉnh sửa"
+    }
+  },
+  "serviceIntegration": {
+    "title": "Liên kết dịch vụ",
+    "integrated": "Đã kết nối",
+    "slack": {
+      "title": "Slack",
+      "subtitle": "Nhận thông báo trong Slack về tất cả các sự kiện Sendtime của tôi"
+    },
+    "zoom": {
+      "title": "Zoom",
+      "subtitle": "Bao gồm chi tiết Zoom trong các sự kiện Sendtime của bạn."
+    },
+    "googleMeet": {
+      "title": "Google Meet",
+      "subtitle": "Bao gồm chi tiết Google Meet trong các sự kiện Sendtime của bạn."
+    },
+    "googleSheet": {
+      "title": "Google Sheet (Nhóm)",
+      "subtitle": "Tất cả thông tin cuộc hẹn cá nhân sẽ được tự động thêm vào Google Sheets mỗi 6 giờ."
+    },
+    "googleSheet2": {
+      "title": "Google Sheet (3 người điều phối)",
+      "subtitle": "Tất cả thông tin điều phối 3 người sẽ được tự động thêm vào Google Sheets mỗi 6 giờ."
+    },
+    "googleSheet3": {
+      "title": "Google Sheet (Cá nhân)",
+      "subtitle": "Tất cả thông tin cuộc hẹn cá nhân sẽ được tự động thêm vào Google Sheets mỗi 6 giờ."
+    }
+  },
+  "myCalendarSetting": {
+    "title": "Cài đặt Lịch của Tôi",
+    "availability": {
+      "title": "Thiết lập sẵn sàng của bạn",
+      "subtitle": "Vui lòng thiết lập sẵn sàng bạn muốn hiển thị trên trang đặt lịch.\nKhách mời sẽ không thể đặt lịch bên ngoài khoảng thời gian được chọn dưới đây."
+    },
+    "favPlace": {
+      "title": "Địa điểm mặc định",
+      "subtitle": "Nếu bạn đặt nó là địa điểm mặc định, bạn có thể dễ dàng thêm nó khi tạo trang đặt lịch của mình.",
+      "placeholder": "San Francisco we-work",
+      "addBtn": "Thêm"
+    }
+  },
+  "message": {
+    "save": "Lưu thành công."
+  }
+}

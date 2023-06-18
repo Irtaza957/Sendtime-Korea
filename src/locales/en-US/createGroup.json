@@ -1,0 +1,27 @@
+{
+  "title": "Create Group",
+  "name": {
+    "title": "Group Name",
+    "subtitle": "Enter a group name."
+  },
+  "description": {
+    "title": "Description",
+    "subtitle": "Enter a description that group members should know about, or a description of an appointment that will be scheduled for the group. \nIt will always appear at the top of the group calendar and will be included in the invitation sent to group members.",
+    "placeholder": "(Example) Hello! We've created a group for scheduling interviews for the Developer position. Interviews will be held from October 1-14. If you're an interviewer, please join the group and link your calendars so HR can help you schedule interviews. Thank you for your cooperation."
+  },
+  "duration": {
+    "title": "Calendar Share Duration",
+    "description": "Group members will share their calendars for as many days as you set below, and won't be able to accept bookings outside of that timeframe."
+  },
+  "availability": {
+    "title": "Availability",
+    "description": "Please set the time to be visible on the booking page. \nInvitees will not be able to book outside of the day/time range selected below."
+  },
+  "shareEventInfo": {
+    "title": "Will you share calendar information with group members?",
+    "description": "When you share event information, group members can see each other's event details (event name, location, and attendees). \nIf you don't share calendar information, only the names of participants and the date of the event will be shared, with calendar details hidden. \nThis setting cannot be modified after the group is created."
+  },
+  "message": {
+    "leavePageWarning": "Are you sure you want to leave this page?"
+  }
+}

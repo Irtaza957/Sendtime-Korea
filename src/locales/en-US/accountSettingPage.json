@@ -1,0 +1,89 @@
+{
+  "save": "Save",
+  "account": {
+    "title": "Profile",
+    "name": "Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email Address",
+    "notiGuide": "*(Notifications will be sent.)",
+    "leave": "Leave Sendtime",
+    "language": "Language"
+  },
+  "calendar": {
+    "title": "Calendar Connections",
+    "addBtn": "Add Calendar Account",
+    "integratedCalendarList": {
+      "title": "My Calendar Account",
+      "deintegrate": "Disconnect",
+      "warning": "Integrate your calendar accounts!",
+      "deintegrateConfirm": "Are you sure you want to disconnect this calendar account?"
+    },
+    "eventIntegrated": {
+      "title": "Check for conflicts",
+      "subtitle": "Set the calendar(s) to check for conflicts to prevent double bookings.",
+      "calendarAccount": "",
+      "edit": "Edit"
+    },
+    "advanceSetting": {
+      "title": "Select events based on their status.",
+      "subtitle": "Selected events will immediately applied to your calendars and availability.",
+      "option": {
+        "1": "checked 'Yes'",
+        "2": "checked 'No'",
+        "3": "checked 'Maybe'",
+        "4": "haven't decided"
+      }
+    },
+    "addToCalendar": {
+      "title": "Add to calendar",
+      "subtitle": "Set the calendar you would like to add new events to as they’re scheduled.",
+      "calendarAccount": "",
+      "warning": "Select a calendar you want Sendtime events to be added.",
+      "edit": "Edit"
+    }
+  },
+  "serviceIntegration": {
+    "title": "Integrations",
+    "integrated": "Connected",
+    "slack": {
+      "title": "Slack",
+      "subtitle": "Receive notifications in Slack about all my sendtime events"
+    },
+    "zoom": {
+      "title": "Zoom",
+      "subtitle": "Include Zoom details in your Sendtime events."
+    },
+    "googleMeet": {
+      "title": "Google Meet",
+      "subtitle": "Include Google Meet details in your Sendtime events."
+    },
+    "googleSheet": {
+      "title": "Google Sheet (Group)",
+      "subtitle": "All personal appointment information is automatically added to Google Sheets every six hours."
+    },
+    "googleSheet2": {
+      "title": "Google Sheet (3-way coordination)",
+      "subtitle": "All 3-way coordination information is automatically added to Google Sheets every six hours."
+    },
+    "googleSheet3": {
+      "title": "Google Sheet (Personal)",
+      "subtitle": "All personal appointment information is automatically added to Google Sheets every six hours."
+    }
+  },
+  "myCalendarSetting": {
+    "title": "My Calendar Setting",
+    "availability": {
+      "title": "Set your availability",
+      "subtitle": "Please set the availability you want show on the booking page.\nInvitees will not be able to book outside of the day/time range selected below."
+    },
+    "favPlace": {
+      "title": "Deafult Locations",
+      "subtitle": "If you set it as a default location, you can easily add it when you create your booking page.",
+      "placeholder": "San Francisco we-work",
+      "addBtn": "Add"
+    }
+  },
+  "message": {
+    "save": "Successfully saved."
+  }
+}

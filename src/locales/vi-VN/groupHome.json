@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "openDuration": "Thời gian mở lịch cho Nhóm",
+  "sidebar": {
+    "attendees": "Thành viên",
+    "allSelect": "Chọn tất cả",
+    "allDeselect": "Bỏ chọn tất cả",
+    "memberSetting": "Cài đặt thành viên",
+    "groupSetting": "Cài đặt Nhóm"
+  },
+  "modal": {
+    "continue": "Tiếp tục",
+    "title": "Tạo trang đặt lịch với các thành viên được chọn.",
+    "subtitle": "Các người tham dự được chọn sẽ được tạo thành những người tham dự sự kiện trên trang đặt lịch.\nThông báo liên quan đến sự kiện cũng sẽ được gửi cho các người tham dự được chọn."
+  },
+  "noSelectedMemberModal": {
+    "title": "Chọn một hoặc nhiều người tham dự để tạo trang đặt lịch.",
+    "subtitle": "Các người tham dự có thể được thêm bằng cách chọn thành viên của Nhóm trong thanh bên cạnh lịch của Nhóm."
+  }
+}

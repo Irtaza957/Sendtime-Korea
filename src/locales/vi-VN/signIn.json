@@ -1,0 +1,26 @@
+{
+  "logIn": "Đăng nhập",
+  "email": "Email",
+  "emailPlaceholder": "tên@email.com",
+  "password": "Mật khẩu",
+  "passwordPlaceholder": "Nhập mật khẩu của bạn",
+  "or": "HOẶC",
+  "logInWithGoogle": "Đăng nhập với Google",
+  "noAccount": "Chưa có tài khoản?",
+  "signUp": "Đăng ký",
+  "lostPassword": "Quên mật khẩu?",
+  "getNewPassword": "Lấy mật khẩu mới",
+  "promotionTitle": "Một công cụ lịch hẹn đơn giản và dễ sử dụng",
+  "promotionText": "Sendtime tăng năng suất của đội nhóm lên đến 3 lần và tối ưu hóa quy trình kinh doanh.",
+  "alert": {
+    "emailInputForm": "Vui lòng nhập địa chỉ email hợp lệ",
+    "notLoggedIn": "Người dùng chưa đăng nhập",
+    "alreadyExistingEmail": "Vui lòng đăng nhập bằng tài khoản thông thường, không phải đăng nhập bằng Google.",
+    "signInWithEmail": "Địa chỉ email này đã được đăng ký làm tài khoản thành viên thông thường.",
+    "alreadySignedUpWithSocial": "Bạn đã đăng ký với tài khoản mạng xã hội.",
+    "signInWithSocial": "Vui lòng đăng nhập với tài khoản mạng xã hội.",
+    "wrongPassword": "Mật khẩu không chính xác",
+    "emailNotVerified": "Quá trình đăng ký chưa hoàn thành.",
+    "emailNotVerifiedDescription": "Chúng tôi đã gửi một email đến địa chỉ email mà bạn đã nhập lúc đầu để hoàn tất quá trình đăng ký. Vui lòng kiểm tra hộp thư đến của bạn."
+  }
+}

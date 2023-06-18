@@ -1,0 +1,71 @@
+{
+  "addQuestionButton": "Thêm câu hỏi mới +",
+  "formQuestion": {
+    "typeYourAnswer": "Nhập câu trả lời của bạn",
+    "fileUpload": {
+      "file": "Tập tin",
+      "UploadFile": " Tải lên tập tin",
+      "maxSize": "Tối đa 10MB"
+    }
+  },
+  "settings": {
+    "setting": "Cài đặt",
+    "changeQuestion": "Thay đổi câu hỏi",
+    "required": "Bắt buộc",
+    "answers": "Câu trả lời",
+    "addAnswers": "Thêm câu trả lời",
+    "addOthers": "Thêm 'Khác'",
+    "emptyFieldMessage": "Vui lòng cập nhật tất cả các thay đổi trước khi tạo.",
+    "cancel": "Hủy bỏ",
+    "apply": "Áp dụng",
+    "deleteThisQuestion": "Xóa câu hỏi này"
+  },
+  "preview": {
+    "previewTitle": "Nhập thông tin chi tiết",
+    "previewDescription": "Thông tin khách hàng"
+  },
+  "fileUploadErr": {
+    "message": "Không thể tải lên tập tin",
+    "description": "Vui lòng nén tệp của bạn và thử lại.",
+    "ok": "Đồng ý"
+  },
+  "addQuestion": {
+    "addAQuestion": "Thêm câu hỏi",
+    "answerType": "Loại câu trả lời",
+    "question": "Câu hỏi",
+    "required": "Bắt buộc",
+    "writeQuestion": "Viết câu hỏi",
+    "answers": "Câu trả lời",
+    "addAnswers": "Thêm câu trả lời",
+    "emptyFieldMessage": "Vui lòng cập nhật tất cả các thay đổi trước khi tạo.",
+    "sameFieldMessage": "Không thể thêm cùng một lựa chọn.",
+    "addOthers": "Thêm 'Khác'",
+    "cancel": "Hủy bỏ",
+    "apply": "Áp dụng",
+    "other": "khác",
+    "questionTypeOptions": {
+      "shortAnswer": "Trả lời ngắn gọn",
+      "paragraph": "Đoạn văn",
+      "name": "Tên",
+      "email": "Email",
+      "phoneNumber": "Số điện thoại",
+      "multipleOptions": "Lựa chọn nhiều",
+      "checkBoxes": "Hộp kiểm",
+      "dropdown": "Hộp thả xuống",
+      "fileUpload": "Tải lên tệp"
+    },
+    "defaultQuestions": {
+      "name": "Tên",
+      "email": "Email",
+      "phoneNumber": "Số điện thoại",
+      "leaveMessage": "Để lại tin nhắn"
+    }
+  },
+  "alert": {
+    "invalidEmail": "Vui lòng nhập một địa chỉ email hợp lệ để tiếp tục.",
+    "invalidPhone": "Vui lòng nhập một số điện thoại hợp lệ để tiếp tục.",
+    "emptyField": "Vui lòng điền vào trường bắt buộc ở trên.",
+    "location": "Vui lòng điền vào trường địa điểm bên dưới.",
+    "onlyImage": "Không phải là một hình ảnh hợp lệ. Vui lòng tải lên tệp png hoặc jpg."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "question1": "Bạn đã trải nghiệm như thế nào với Sendtime?",
+  "npsBad": "Tệ",
+  "npsGood": "Tuyệt vời",
+  "question2": "Bạn cảm thấy điều gì thiếu hoặc không hài lòng về trải nghiệm của mình với chúng tôi?",
+  "answersForQuestion2": {
+    "1": "Không thân thiện với người dùng",
+    "2": "Phức tạp trong thao tác",
+    "3": "Vấn đề kỹ thuật (lỗi)",
+    "4": "Khác"
+  },
+  "question3": {
+    "title": "Chúng tôi có thể cải thiện trải nghiệm của bạn như thế nào?",
+    "description": "Chúng tôi rất trân trọng mọi ý tưởng và góp ý từ khách hàng của mình, dù là tích cực hay chỉ trích. Trong tương lai, đội ngũ của chúng tôi có thể liên lạc với bạn để tìm hiểu thêm về cách chúng tôi có thể cải thiện thêm."
+  },
+  "placeholder": "",
+  "closing": {
+    "title": "Cảm ơn bạn đã chia sẻ ý kiến!",
+    "subtitle": "Chúng tôi rất đánh giá cao những suy nghĩ, ý tưởng và đóng góp của bạn.",
+    "joinGuide": "Hãy tham gia cộng đồng Slack của chúng tôi để cùng hợp tác với các người dùng khác và giúp chúng tôi cải thiện Sendtime hơn!",
+    "joinBtn": "Tham gia ngay",
+    "joinLink": "https://join.slack.com/t/sendtimecommunity/shared_invite/zt-1fkz6a45w-ZaOyBeBWccqkNh7PsmIDfw"
+  }
+}

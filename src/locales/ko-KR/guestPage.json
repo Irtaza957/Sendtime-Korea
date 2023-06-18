@@ -1,0 +1,156 @@
+{
+  "slotSelected": "개 요청시간 선택 완료",
+  "rank": {
+    "1": "순위",
+    "2": "순위",
+    "3": "순위",
+    "4": "순위",
+    "5": "순위",
+    "6": "순위",
+    "7": "순위",
+    "8": "순위",
+    "9": "순위",
+    "10": "순위"
+  },
+  "location": {
+    "value": "선호하는 장소",
+    "placeholder": "편하신 장소를 입력해주세요.",
+    "alert": {
+      "link": " 님이 해당 링크를 전달드릴 예정입니다.",
+      "phone": " 님이 전화드릴 예정입니다."
+    }
+  },
+  "reason": "예약 목적",
+  "message": "추가 전달 사항",
+  "preview": {
+    "description": "비어있는 시간에 일정을 요청해주세요!",
+    "standardTime": "한국 표준시(GMT+09:00, Seoul)를 지원합니다.",
+    "timezone": "시간대:",
+    "showingTimes": "표시된 시간",
+    "location": {
+      "alert": "다음 페이지에서 편하신 장소를 입력해주세요.",
+      "phone": "전화 미팅"
+    },
+    "chooseFrom": {
+      "leading": "",
+      "trailing": " 중 택 1"
+    }
+  },
+  "alert": {
+    "selectAgain": "예약 시간을 다시 선택해주세요.",
+    "fill": {
+      "name": "이름을 입력해주세요.",
+      "organization": "소속을 입력해주세요.",
+      "phone": "연락처를 입력해주세요.",
+      "email": "이메일을 입력해주세요.",
+      "location": "장소를 입력해주세요."
+    },
+    "invalid": {
+      "phone": "숫자만 입력하실 수 있습니다.",
+      "email": "이메일 형식에 맞게 입력해주세요."
+    },
+    "confirm": {
+      "alreadyDone": "이미 확정된 예약입니다."
+    },
+    "cancel": {
+      "alreadyDone": "이미 취소된 예약입니다."
+    },
+    "doubleBooked": {
+      "alreadyDone": "이미 일정이 있는 시간대입니다.",
+      "continue": "이중 예약을 피하려면 다른 시간 옵션을 선택해주세요. \n 그럼에도 일정을 넣고 싶으시다면 일정 넣기 버튼을 눌러주세요.",
+      "buttonText": "일정 넣기"
+    },
+    "inactivated": "비활성화된 예약페이지 입니다.",
+    "deleted": "삭제된 예약페이지 입니다."
+  },
+  "completed": {
+    "title": "센드타임 예약 완료!",
+    "description": "메일과 알림톡으로 예약 현황을 알려드립니다.",
+    "freeTrial": {
+      "leading": "센드타임 예약자라면 누구나,",
+      "bold": "무료체험 가능!",
+      "trailing": "지금 회원가입하고 모든 기능을 무료로 사용해보세요."
+    },
+    "emailBoxTitle": "나와 우리 팀을 위한 스케줄링 툴",
+    "button": "시작하기",
+    "emailBoxHelpText": "지금 무료로 시작해보세요.",
+    "nextTime": "다음에 할게요"
+  },
+  "change": {
+    "title": "예약을 변경하시겠습니까?",
+    "description": "모든 참석자에게 변경 안내 메일과 알림톡이 자동 발송됩니다",
+    "reason": "변경 사유",
+    "placeholder": "최대 3,000자",
+    "button": "변경"
+  },
+  "cancel": {
+    "title": "예약을 취소하시겠습니까?",
+    "description": "모든 참석자에게 취소 안내 메일과 알림톡이 자동 발송됩니다.",
+    "reason": "취소 사유",
+    "placeholder": "최대 3,000자",
+    "button": "예약 취소"
+  },
+  "reselect": {
+    "title": "예약 일시를 재선택하시겠습니까?",
+    "description": {
+      "leading": "제안된 시간대 중 하나를 선택해주세요.",
+      "trailing": "모든 참석자에게 변경 안내 메일과 알림톡이 자동 발송됩니다."
+    },
+    "button": "예약일시 재선택"
+  },
+  "confirm": {
+    "title": "예약을 확정해주세요.",
+    "description": {
+      "leading": "예약자가 제안한 시간대 중 하나를 선택해주세요.",
+      "trailing": "예약자에게 메일과 알림톡으로 확정이 안내됩니다."
+    },
+    "button": "예약일시 확정"
+  },
+  "emailComplete": {
+    "type": {
+      "confirm": "예약이 확정되었습니다!",
+      "cancel": "예약이 취소되었습니다!",
+      "change": "예약이 변경되었습니다!"
+    },
+    "content": {
+      "leading": "메일과 알림톡으로 변동 사항을 안내드렸습니다.",
+      "middle": "메일 또는 알림톡을 받지 못하셨다면",
+      "trailing": "아래 채널로 알려주세요."
+    },
+    "button": {
+      "home": "홈으로 가기",
+      "schedule": "예약 일정관리 가기"
+    },
+    "cs": {
+      "email": "고객센터 이메일",
+      "slack": "슬랙 채널",
+      "phone": "대표번호"
+    }
+  },
+  "bannerImage": "no_available_time",
+  "chooseMoreTime": {
+    "title": "예약 가능한 시간대를 더 입력할 수 있습니다!",
+    "description": {
+      "leading": "원활한 시간 조율을 위해",
+      "trailing": "예약 가능한 시간을 더 선택해주세요."
+    },
+    "buttonText": "확인",
+    "skip": "더 이상 가능한 시간대가 없습니다."
+  },
+  "mobile": {
+    "description": "가능한 시간에 일정을 요청해주세요!",
+    "button": "신청하기",
+    "showMore": "더보기",
+    "showLess": "숨기기"
+  },
+  "noTimeBtn": "가능한 시간이 없으신가요?",
+  "confirmMessage": {
+    "title": "예약 확정 메시지",
+    "subtitle": "예약 확정 메세지를 추가하면,\n예약 확정 메일에 기입한 메세지가 추가됩니다.",
+    "placeholder": "예약자에게 전송될 예약 확정 메일에 추가될 메시지가 있다면 기입해주세요."
+  },
+  "form": {
+    "title": "신청자 정보 입력하기",
+    "subTitle": "신청자 정보"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "startStep": {
+    "signUp": "Sign up",
+    "signUpWithEmail": "Sign up with Email",
+    "signUpWithGoogle": "Continue with Google",
+    "or": "OR",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "login": "Log in"
+  },
+  "emailPwStep": {
+    "createYourAccount": "Create your account",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Create your password",
+    "yourPasswordMustContain": "Your password must contain",
+    "minimum8Characters": " • A minimum 8 characters",
+    "next": "Next",
+    "alert": "By signing up, you agree to the <terms>Terms of Service</terms> and <privacy>Privacy Policy</privacy>."
+  },
+  "userInfoStep": {
+    "tellMeAboutYou": "Tell me more about you",
+    "email": "Email",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "timezone": "Timezone",
+    "phoneNumber": "Phone number",
+    "phoneNumberPlaceholder": "10-0000-0000",
+    "phoneNumberDescription": "Enter phone number and receive automated notifications.",
+    "signUp": "Sign up"
+  },
+  "emailVerificationStep": {
+    "checkYourEmail": "Check your email",
+    "emailSentTo": "We sent an email to<br /><email>{{email}}</email>",
+    "clickOnTheLink": "Click the button in the email to get started!",
+    "resendEmail": "Resend email",
+    "successTitle": "Email Verification Success",
+    "successDescription": "You can now log in to your account.",
+    "failed": "Email verification failed. Please try again."
+  },
+  "alert": {
+    "emailInputForm": "Please enter a valid email address",
+    "passwordMinLength": "Password must be at least 8 characters",
+    "nameInputCharacter": "English and Korean characters only",
+    "phoneNumberLength": "Phone number must be 10 digits",
+    "duplicatedEmail": "This email is already registered"
+  }
+}

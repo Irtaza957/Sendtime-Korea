@@ -1,0 +1,97 @@
+{
+  "buildMyCard": "註冊我的卡片",
+  "requestMeeting": "立即預約",
+  "more": "更多",
+  "poweredBySpaceTitle": "Create a Space for your event now",
+  "poweredBySpaceSubtitle": "Do you want to use this page at your event? →",
+  "loginToEditYourProfileCard": "登入以編輯您的名片",
+  "eventAttendeesList": "參加者名單",
+  "aboutTheEvent": "關於活動",
+  "menu": {
+    "buildMyCard": "创建我的名片",
+    "goToSendtime": "前往Sendtime",
+    "logout": "登出"
+  },
+  "addCardModal": {
+    "title": "獲取您的個人名片 😎",
+    "updateTitle": "更新您的个人资料卡片",
+    "yourCardMissing": "哎呀，您的名片不见了！",
+    "createOneToSeeMore": "立即创建您的名片，并与合适的人联系。🚀",
+    "createOneToMeet": "立即创建您的名片，并与合适的人联系。🚀",
+    "alreadyHaveAccount": "您已經有了嗎？",
+    "login": "登入",
+    "signUpSectionTitle": "輕鬆 3 秒完成註冊",
+    "name": "名字",
+    "namePlaceholder": "John",
+    "email": "電子郵件",
+    "emailPlaceholder": "name@email.com",
+    "phone": "電話號碼",
+    "phonePlaceholder": "010-1234-5678",
+    "infoSectionTitle": "告訴我們關於您的事情。",
+    "nameOnYourCard": "您的名字",
+    "bio": "簡介",
+    "bioPlaceholder": "例如：嗨，我是 Min，是 Sendtime 的創辦人。我想認識有才華的人，以及有趣的潛在用戶。",
+    "hashtags": "標籤",
+    "hashtagsPlaceholder": "请用逗号分隔关键词，例如领域、隶属关系、部门等，进行输入。",
+    "profileImage": "個人形象照片（最大 10MB）",
+    "reservationPage": "請問您想使用哪個預約頁面？",
+    "createNewReservationPage": "我想要建立一個新的預約頁面",
+    "socialLinkPlaceholder": "username or URL",
+    "contentsSharingAgreement": "Space 协议",
+    "contentsSharingAgreement1": "我允許此空間中的卡片顯示在搜尋引擎中。",
+    "contentsSharingAgreement2": "我允許我的卡片在Sendtime相關媒體中介紹或推薦，如Sendtime網站、通訊、部落格、文章、官方Sendtime空間等。",
+    "buttonText": "建立名片",
+    "payButtonText": "支付並建立名片",
+    "updateButtonText": "更新名片",
+    "nextButtonText": "下一步",
+    "alerts": {
+      "successTitle": "您的名片已經建立成功！",
+      "updateSuccessTitle": "您的名片已經更新成功！",
+      "successMessage": "請查看歡迎郵件獲取使用說明。",
+      "nameEmptyError": "請輸入您的名字。",
+      "emailFormatError": "請輸入有效的電子郵件地址。",
+      "phoneFormatError": "請輸入有效的電話號碼。",
+      "onlyImage": "不是有效的图像文件，请上传一个png或jpg文件。",
+      "imageSize": "只允許上傳不超過 {{size}}MB 的圖片文件。",
+      "agreement": "點擊按鈕表示您同意 <terms>服務條款</terms> 和 <privacy>隱私政策</privacy>。",
+      "checkInputs": "請再次檢查您的輸入。",
+      "alreadyRegistered": "此用戶已經註冊。",
+      "alreadyInSpace": "此用戶已經在此空間中註冊。",
+      "somethingWrong": "發生了錯誤。請重試。",
+      "noReservationPage": "冇預約頁面",
+      "reservationPageNotFound": "找不到所選的預約頁面"
+    }
+  },
+  "enterCodePage": {
+    "title": "输入密码",
+    "button": "加入",
+    "alerts": {
+      "wrongTitle": "糟糕，您输入错误。",
+      "wrongDescription": "请重试。"
+    }
+  },
+  "sendMessageModal": {
+    "title": "傳送訊息",
+    "description": "訊息將透過電子郵件發送",
+    "to": "收件人",
+    "message": "訊息",
+    "enterMessage": "輸入您的訊息",
+    "messageNote": "當發送電子郵件時，將共享以下內容。",
+    "send": "傳送",
+    "cancel": "取消",
+    "successMessage": "你已成功發送一則訊息。"
+  },
+  "alerts": {
+    "cannotReactMyCard": "您不能與自己的名片互動。",
+    "completePaymentModalTitle": "请完成支付！",
+    "completePaymentModalMessage": "您需要完成支付才能创建我的卡片并使用空间的所有功能。",
+    "completePaymentModalButton": "支付"
+  },
+  "spaceInformationMadal": {
+    "title": "通知",
+    "description1": "你尚未登入。你需要登入才能向他人發送訊息.",
+    "description2": "你沒有卡片。你需要一張卡片才能給某人發送訊息.",
+    "loginButton": "已經有帳號？登入",
+    "registerButton": "立即註冊"
+  }
+}

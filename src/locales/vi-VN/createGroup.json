@@ -1,0 +1,27 @@
+{
+  "title": "Tạo nhóm",
+  "name": {
+    "title": "Tên nhóm",
+    "subtitle": "Nhập tên cho nhóm."
+  },
+  "description": {
+    "title": "Mô tả",
+    "subtitle": "Nhập mô tả mà các thành viên của nhóm cần biết hoặc mô tả về cuộc hẹn sẽ được lên lịch cho nhóm. \nNó sẽ luôn xuất hiện ở đầu lịch nhóm và sẽ được bao gồm trong lời mời gửi đến các thành viên của nhóm.",
+    "placeholder": "(Ví dụ) Xin chào! Chúng tôi đã tạo một nhóm để lên lịch phỏng vấn cho vị trí Developer. Phỏng vấn sẽ diễn ra từ ngày 1 đến ngày 14 tháng 10. Nếu bạn là người phỏng vấn, hãy tham gia nhóm và liên kết lịch của bạn để HR có thể giúp bạn lên lịch phỏng vấn. Cảm ơn sự hợp tác của bạn."
+  },
+  "duration": {
+    "title": "Thời gian chia sẻ lịch",
+    "description": "Các thành viên của nhóm sẽ chia sẻ lịch của họ trong số ngày được thiết lập dưới đây và sẽ không thể chấp nhận các lịch ngoài thời gian đó."
+  },
+  "availability": {
+    "title": "Sẵn sàng",
+    "description": "Vui lòng thiết lập thời gian để hiển thị trên trang đặt lịch. \nNgười được mời sẽ không thể đặt lịch bên ngoài khoảng thời gian ngày/giờ được chọn dưới đây."
+  },
+  "shareEventInfo": {
+    "title": "Bạn có chia sẻ thông tin lịch với thành viên nhóm không?",
+    "description": "Khi bạn chia sẻ thông tin lịch, các thành viên nhóm có thể xem thông tin chi tiết của các sự kiện của nhau (tên sự kiện, địa điểm và danh sách tham dự). \nNếu bạn không chia sẻ thông tin lịch, chỉ tên các tham gia viên và ngày diễn ra sự kiện sẽ được chia sẻ, với chi tiết lịch bị ẩn đi. \nCài đặt này không thể được thay đổi sau khi nhóm được tạo."
+  },
+  "message": {
+    "leavePageWarning": "Bạn có chắc chắn muốn rời trang này không?"
+  }
+}

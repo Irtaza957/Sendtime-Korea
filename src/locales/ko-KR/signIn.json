@@ -1,0 +1,26 @@
+{
+  "logIn": "로그인",
+  "email": "이메일",
+  "emailPlaceholder": "name@email.com",
+  "password": "비밀번호",
+  "passwordPlaceholder": "비밀번호를 입력해주세요",
+  "or": "OR",
+  "logInWithGoogle": "구글 로그인",
+  "noAccount": "센드타임이 처음이라면?",
+  "signUp": "가입하기",
+  "lostPassword": "비밀번호를 잊으셨나요?",
+  "getNewPassword": "비밀번호 변경하기",
+  "promotionTitle": "나와 우리 팀을 위한 스케줄링 툴",
+  "promotionText": "센드타임으로 일정 조율 단계를 줄이고 3배 이상의 퍼포먼스를 만들어보세요.",
+  "alert": {
+    "emailInputForm": "이메일 형식에 맞게 입력해주세요.",
+    "notLoggedIn": "로그인되어 있지 않습니다.",
+    "alreadyExistingEmail": "구글 로그인이 아닌 일반 로그인을 해주세요.",
+    "signInWithEmail": "일반 회원가입이 된 이메일입니다.",
+    "alreadySignedUpWithSocial": "이미 소셜 계정으로 가입되어 있습니다.",
+    "signInWithSocial": "소셜 계정으로 로그인해주세요.",
+    "wrongPassword": "비밀번호가 일치하지 않습니다.",
+    "emailNotVerified": "회원가입이 완료되지 않았습니다.",
+    "emailNotVerifiedDescription": "최초 입력한 이메일로 회원가입을 위한 메일을 발송했으니 확인해주세요."
+  }
+}

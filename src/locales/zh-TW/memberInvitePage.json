@@ -1,0 +1,32 @@
+{
+  "title": "邀請成員",
+  "subtitle": "輸入您要邀請加入群組的人員資訊，邀請函將會發送到他們的電子郵件信箱。",
+  "inviteMessage": "自訂訊息",
+  "list": {
+    "title": "待加入成員",
+    "numberOfPeople": "",
+    "add": "加入"
+  },
+  "btn": {
+    "confirm": "發送",
+    "cancel": "取消"
+  },
+  "input": {
+    "name": {
+      "value": "姓名",
+      "placeholder": "約翰"
+    },
+    "email": {
+      "value": "電子郵件",
+      "placeholder": "name@gmail.com"
+    }
+  },
+  "modal": {
+    "title": "邀請已發送！",
+    "description": "成員已透過電子郵件收到邀請。您可以在「成員設定」頁籤中檢查邀請狀態。",
+    "btn": "檢視邀請狀態"
+  },
+  "alert": {
+    "duplicate": "，此使用者已在群組中，所以我們無法重新發送邀請函。其他人已成功收到邀請函。"
+  }
+}

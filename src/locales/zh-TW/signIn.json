@@ -1,0 +1,26 @@
+{
+  "logIn": "登入",
+  "email": "電子郵件",
+  "emailPlaceholder": "name@email.com",
+  "password": "密碼",
+  "passwordPlaceholder": "輸入您的密碼",
+  "or": "或者",
+  "logInWithGoogle": "使用 Google 帳戶登入",
+  "noAccount": "還沒有帳戶？",
+  "signUp": "註冊",
+  "lostPassword": "忘記密碼？",
+  "getNewPassword": "重置密碼",
+  "promotionTitle": "一個簡單易用的排程工具",
+  "promotionText": "Sendtime 可以讓您的團隊生產力提高 3 倍，並讓您的業務流程更加流暢。",
+  "alert": {
+    "emailInputForm": "請輸入有效的電子郵件地址",
+    "notLoggedIn": "使用者未登入",
+    "alreadyExistingEmail": "請使用普通帳號登入，而不要使用 Google 登入。",
+    "signInWithEmail": "這個電子郵件已經註冊為一般會員。",
+    "alreadySignedUpWithSocial": "您已經使用社交帳戶註冊過了",
+    "signInWithSocial": "請使用社交帳戶登入",
+    "wrongPassword": "密碼錯誤",
+    "emailNotVerified": "註冊尚未完成。",
+    "emailNotVerifiedDescription": "我們已經向您最初輸入的電子郵件地址發送了一封用於註冊的郵件，請查收。"
+  }
+}

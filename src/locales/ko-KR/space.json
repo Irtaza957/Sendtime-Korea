@@ -1,0 +1,97 @@
+{
+  "buildMyCard": "내 카드 만들기",
+  "requestMeeting": "미팅 요청하기",
+  "more": "더 알아보기",
+  "poweredBySpaceTitle": "<span>오늘 왔던 사람,</span> <span>내일도 연결되니까.</span>",
+  "poweredBySpaceSubtitle": "내 이벤트에 사용하고 싶다면? →",
+  "loginToEditYourProfileCard": "프로필 카드를 수정하려면 로그인하세요.",
+  "eventAttendeesList": "참가자 목록",
+  "aboutTheEvent": "이벤트 소개",
+  "menu": {
+    "buildMyCard": "내 카드 만들기",
+    "goToSendtime": "센드타임 바로가기",
+    "logout": "로그아웃"
+  },
+  "addCardModal": {
+    "title": "프로필 카드를 만들어 보세요 😎",
+    "updateTitle": "프로필 카드 수정",
+    "yourCardMissing": "앗, 내 카드가 없어요!",
+    "createOneToSeeMore": "더 많은 사람을 보려면 내 카드가 필요해요 🥲",
+    "createOneToMeet": "미팅을 요청하려면 내 카드가 필요해요 🥲",
+    "alreadyHaveAccount": "이미 있으신가요?",
+    "login": "로그인",
+    "signUpSectionTitle": "3초만에 간편 가입하기",
+    "name": "이름",
+    "namePlaceholder": "민센드",
+    "email": "이메일",
+    "emailPlaceholder": "name@email.com",
+    "phone": "전화번호",
+    "phonePlaceholder": "010-1234-5678",
+    "infoSectionTitle": "나를 이렇게 알릴게요!",
+    "nameOnYourCard": "내 카드에 표시될 이름",
+    "bio": "자기소개",
+    "bioPlaceholder": "예) 안녕하세요, 스케줄링 툴 센드타임을 만들고 있는 스플랩의 파운더 선민승입니다. 역량 있는 분들을 만나고 이야기를 나누고 싶어요.",
+    "hashtags": "해시태그",
+    "hashtagsPlaceholder": "분야, 소속, 부서, 관심사 등 자신을 표현할 수 있는 키워드를 쉼표로 구분하여 입력해주세요.",
+    "profileImage": "프로필 사진 (최대 10MB)",
+    "reservationPage": "사용할 예약 페이지",
+    "createNewReservationPage": "새로운 예약 페이지 만들기",
+    "socialLinkPlaceholder": "username 또는 URL",
+    "contentsSharingAgreement": "스페이스 약관",
+    "contentsSharingAgreement1": "(선택) 이 스페이스에 포함된 내 카드를 검색엔진에 노출합니다.",
+    "contentsSharingAgreement2": "(선택) 내 카드를 센드타임 웹사이트, 뉴스레터, 블로그, 기사, 센드타임 공식 스페이스 등의 센드타임 관련 미디어매체에 소개되거나 추천되는 것을 허용합니다.",
+    "buttonText": "카드 만들기",
+    "payButtonText": "결제하고 카드 만들기",
+    "updateButtonText": "카드 수정하기",
+    "nextButtonText": "내 카드 만들기",
+    "alerts": {
+      "successTitle": "카드가 만들어졌어요!",
+      "updateSuccessTitle": "카드가 수정되었어요!",
+      "successMessage": "웰컴 이메일에서 사용법을 확인하세요.",
+      "nameEmptyError": "이름을 입력해주세요.",
+      "emailFormatError": "올바른 이메일을 입력해주세요.",
+      "phoneFormatError": "올바른 전화번호를 입력해주세요.",
+      "onlyImage": "파일 확장자는 png와 jpg만을 지원하니 새로 업로드해주세요.",
+      "imageSize": "{{size}}MB 이하의 이미지 파일만 업로드 가능합니다.",
+      "agreement": "위 버튼을 클릭함으로써 <terms>이용약관</terms> 및 <privacy>개인정보 처리방침</privacy>에 동의합니다.",
+      "checkInputs": "입력 값을 다시 확인해주세요.",
+      "alreadyRegistered": "이미 가입된 사용자입니다.",
+      "alreadyInSpace": "이미 이 스페이스에 등록된 사용자입니다.",
+      "somethingWrong": "오류가 발생했습니다. 다시 시도해주세요.",
+      "noReservationPage": "예약 페이지가 없습니다.",
+      "reservationPageNotFound": "선택한 예약 페이지를 찾을 수 없습니다."
+    }
+  },
+  "enterCodePage": {
+    "title": "입장 코드를 입력해주세요.",
+    "button": "입장하기",
+    "alerts": {
+      "wrongTitle": "죄송합니다.",
+      "wrongDescription": "코드가 틀렸습니다. 다시 시도해주세요."
+    }
+  },
+  "sendMessageModal": {
+    "title": "메시지 보내기",
+    "description": "메시지는 이메일과 카카오톡으로 전송됩니다.",
+    "to": "받는 사람",
+    "message": "메시지",
+    "enterMessage": "메시지를 입력하세요",
+    "messageNote": "메시지를 보낼 때, 다음 내용이 공유됩니다.",
+    "send": "보내기",
+    "cancel": "취소",
+    "successMessage": "메시지가 성공적으로 발송되었습니다!"
+  },
+  "alerts": {
+    "cannotReactMyCard": "내 카드에는 반응을 추가할 수 없습니다.",
+    "completePaymentModalTitle": "결제를 완료해주세요!",
+    "completePaymentModalMessage": "결제를 완료하면 내 카드를 통해 스페이스의 모든 기능을 사용할 수 있어요.\n결제를 완료하셨다면 ‘취소’ 버튼을 누르고 새로고침해주세요.",
+    "completePaymentModalButton": "결제하기"
+  },
+  "spaceInformationMadal": {
+    "title": "공지",
+    "description1": "당신은 로그인되어 있지 않습니다. 개인에게 메시지를 보내려면 로그인해야 합니다.",
+    "description2": "카드가 없습니다. 개인에게 메시지를 보내려면 카드가 필요합니다.",
+    "loginButton": "이미 계정이 있으신가요? 로그인",
+    "registerButton": "지금 등록"
+  }
+}

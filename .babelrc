@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "next/babel",
+    "@babel/preset-react",
+    "@babel/preset-env",
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+    "@babel/plugin-transform-runtime",
+    "@emotion",
+    "@babel/plugin-proposal-class-properties",
+    "@babel/plugin-syntax-import-assertions"
+  ]
+}

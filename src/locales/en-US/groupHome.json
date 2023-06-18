@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "openDuration": "Group Calendar Open Period",
+  "sidebar": {
+    "attendees": "Members",
+    "allSelect": "Select All",
+    "allDeselect": "Deselect All",
+    "memberSetting": "Member Setting",
+    "groupSetting": "Group Setting"
+  },
+  "modal": {
+    "continue": "Continue",
+    "title": "Creating a booking page with selected members.",
+    "subtitle": "The selected participants will be event attendees created with the booking page.\nNotifications regarding the event will also be sent to selected participants."
+  },
+  "noSelectedMemberModal": {
+    "title": "Select one or more attendees to create a booking page.",
+    "subtitle": "Attendees can be added by selecting Group members in the sidebar next to the group calendar."
+  }
+}

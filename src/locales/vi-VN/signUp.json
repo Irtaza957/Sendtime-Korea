@@ -1,0 +1,48 @@
+{
+  "startStep": {
+    "signUp": "Đăng ký",
+    "signUpWithEmail": "Đăng ký với Email",
+    "signUpWithGoogle": "Tiếp tục với Google",
+    "or": "HOẶC",
+    "alreadyHaveAnAccount": "Đã có tài khoản?",
+    "login": "Đăng nhập"
+  },
+  "emailPwStep": {
+    "createYourAccount": "Tạo tài khoản của bạn",
+    "email": "Email",
+    "emailPlaceholder": "Nhập email của bạn",
+    "password": "Mật khẩu",
+    "passwordPlaceholder": "Tạo mật khẩu của bạn",
+    "yourPasswordMustContain": "Mật khẩu của bạn phải chứa",
+    "minimum8Characters": " • Tối thiểu 8 ký tự",
+    "next": "Tiếp tục",
+    "alert": "Bằng cách đăng ký, bạn đồng ý với các <terms>Điều khoản dịch vụ</terms> và <privacy>Chính sách bảo mật</privacy>."
+  },
+  "userInfoStep": {
+    "tellMeAboutYou": "Kể cho tôi biết thêm về bạn",
+    "email": "Email",
+    "name": "Tên",
+    "namePlaceholder": "Nhập tên của bạn",
+    "timezone": "Múi giờ",
+    "phoneNumber": "Số điện thoại",
+    "phoneNumberPlaceholder": "10-0000-0000",
+    "phoneNumberDescription": "Nhập số điện thoại và nhận thông báo tự động.",
+    "signUp": "Đăng ký"
+  },
+  "emailVerificationStep": {
+    "checkYourEmail": "Kiểm tra email của bạn",
+    "emailSentTo": "Chúng tôi đã gửi một email đến<br /><email>{{email}}</email>",
+    "clickOnTheLink": "Nhấp vào nút trong email để bắt đầu!",
+    "resendEmail": "Gửi lại email",
+    "successTitle": "Xác thực Email thành công",
+    "successDescription": "Bạn có thể đăng nhập vào tài khoản của mình ngay bây giờ.",
+    "failed": "Xác thực email không thành công. Vui lòng thử lại."
+  },
+  "alert": {
+    "emailInputForm": "Vui lòng nhập địa chỉ email hợp lệ",
+    "passwordMinLength": "Mật khẩu phải chứa ít nhất 8 ký tự",
+    "nameInputCharacter": "Chỉ chấp nhận các ký tự tiếng Anh và tiếng Hàn",
+    "phoneNumberLength": "Số điện thoại phải có 10 chữ số",
+    "duplicatedEmail": "Email này đã được đăng ký"
+  }
+}

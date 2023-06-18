@@ -1,0 +1,23 @@
+{
+  "title": "群組行事曆列表",
+  "createBtn": "建立群組",
+  "message": {
+    "noGroups": "尚未建立群組行事曆。\n建立群組並開始使用 Sendtime 行事曆吧！",
+    "missingURL": {
+      "title": "Oops！",
+      "description": "由於您在註冊過程中遺漏了一些必要資訊，因此我們無法建立您的預約頁面。\n請為您的個人資料頁面創建一個自定義 URL。"
+    },
+    "deleteWarning": {
+      "title": "您確定要刪除嗎？",
+      "description": "如果您刪除群組，您將無法在該群組的預約頁面上接收事件，\n您將無法確認、更改或取消您已經從該群組接收到的任何事件。"
+    }
+  },
+  "columns": {
+    "name": "名稱",
+    "createDateTime": "建立時間",
+    "memberCount": "成員數",
+    "calendarOpenPeriod": "行事曆開放期間"
+  },
+  "manage": "設定",
+  "delete": "刪除"
+}

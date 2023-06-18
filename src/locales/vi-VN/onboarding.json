@@ -1,0 +1,55 @@
+{
+  "joinPath": {
+    "title": "Bạn nghe về chúng tôi như thế nào?",
+    "description": "Chọn tất cả các phương thức áp dụng",
+    "paths": [
+      "Được giới thiệu bởi bạn/bồ đồng nghiệp",
+      "Tìm kiếm trên máy chủ(Google, Yahoo, v.v.)",
+      "Qua việc đặt cuộc hẹn bằng Sendtime",
+      "Instagram",
+      "Blog Sendtime",
+      "Linked in",
+      "Twitter"
+    ],
+    "other": "Khác(vui lòng nêu rõ)",
+    "next": "Tiếp theo"
+  },
+  "integrateCalendar": {
+    "title": "Tích hợp lịch sử dụng thường xuyên",
+    "subtitle": "Khi bạn tích hợp lịch của mình,\nNó sẽ được cập nhật theo thời gian thực trên Sendtime.",
+    "skip": "Bỏ qua",
+    "pleaseWait": "Đang tích hợp lịch của bạn..\nNó có thể mất một vài thời gian nếu dữ liệu quá lớn.\nTrong lúc đó, xin đừng làm mới trang."
+  },
+  "calendarCategory": {
+    "title": "Tích hợp lịch sử dụng thường xuyên",
+    "description": "Khi bạn tích hợp lịch của mình,\nNó sẽ được cập nhật theo thời gian thực trên Sendtime.",
+    "account": "{{email}}",
+    "integrate": "Tiếp theo"
+  },
+  "calendarName": {
+    "google": "Lịch Google",
+    "outlook": "Tiện ích Outlook"
+  },
+  "timeSetting": {
+    "title": "Vui lòng thiết lập thời gian\ncông khai trên trang đặt lịch.",
+    "availableTime": "Thời gian khả dụng",
+    "availableTimeDescription": "Người đặt lịch không thể đăng ký trong khoảng thời gian ngoài phạm vi thời gian bên dưới.",
+    "availableTimeAlert": "Phạm vi thời gian không hợp lệ.",
+    "availableDay": "Ngày khả dụng",
+    "availableDayDescription": "Người đặt lịch không thể đăng ký vào ngày không được chọn bên dưới.",
+    "dontWorry": "Đừng lo lắng!\nBạn có thể thiết lập lại thời gian công khai khi tạo trang đặt lịch mới.",
+    "skip": "Bỏ qua",
+    "next": "Tiếp theo"
+  },
+  "setURL": {
+    "subtitle": "Và bước cuối cùng!",
+    "title": "Đặt URL của bạn trên Sendtime.",
+    "next": "Tiếp",
+    "duplicated": "URL này đã được sử dụng. Vui lòng thử một URL khác."
+  },
+  "message": {
+    "MAX_URL": "Tối đa 15 ký tự được phép.",
+    "ENG_NUM": "Chỉ cho phép chữ cái và số.",
+    "EMPTY": "Vui lòng nhập URL."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "infoTitle": "Cài đặt nhóm",
+  "name": {
+    "title": "Tên",
+    "subtitle": "Vui lòng cung cấp tên cho nhóm."
+  },
+  "description": {
+    "title": "Mô tả",
+    "subtitle": "Cung cấp mô tả cho nhóm. \nMô tả của nhóm sẽ xuất hiện trong lời mời gửi đến các thành viên."
+  },
+  "settingTitle": "Cài đặt trang đặt lịch cho nhóm",
+  "duration": {
+    "title": "Thời gian mở",
+    "subtitle": "Thành viên nhóm sẽ chia sẻ lịch cho số ngày mà bạn đặt ở bên dưới."
+  },
+  "location": {
+    "title": "Địa điểm mặc định",
+    "subtitle": "Nếu bạn thiết lập nó như một địa điểm mà thành viên của nhóm thường sử dụng, bạn có thể dễ dàng thêm nó khi bạn tạo trang đặt lịch cho nhóm.",
+    "placeholder": "Vui lòng nhập tên địa điểm mặc định của bạn.",
+    "addBtn": "Thêm"
+  },
+  "availability": {
+    "title": "Sẵn sàng",
+    "subtitle": "Vui lòng đặt sẵn sàng bạn muốn hiển thị trên trang đặt lịch.\nNgười được mời sẽ không thể đặt lịch ngoài phạm vi ngày / giờ được chọn bên dưới."
+  },
+  "inviteSettingTitle": "Cài đặt lời mời",
+  "deleteMessage": {
+    "title": "Bạn có muốn xóa mục này?",
+    "subtitle": "Khi bạn xóa một mục, các thành viên của nhóm sẽ không còn có thể nhập nó khi tham gia, và bất kỳ thông tin nào bạn đã thu thập về họ sẽ bị xóa và không thể khôi phục được."
+  },
+  "customField": {
+    "title": "Trường yêu cầu của người được mời",
+    "subtitle": "Cung cấp thông tin cho các thành viên điền vào khi họ tham gia nhóm. \nTên và email là bắt buộc, và bạn có thể thêm một loạt các mục khác như tên công ty và chức danh.",
+    "add": {
+      "placeholder": "Vui lòng cung cấp một mục.",
+      "btn": "Thêm"
+    },
+    "required": {
+      "title": "Bắt buộc",
+      "previewTitle": "Xem trước",
+      "name": {
+        "title": "Tên",
+        "placeholder": "Kim"
+      },
+      "email": {
+        "title": "Email",
+        "placeholder": "example@splab.dev"
+      }
+    }
+  },
+  "saved": "Tất cả các thay đổi đã được lưu!",
+  "saveBtn": "Lưu",
+  "delete": {
+    "title": "Xóa",
+    "subtitle": "Nhóm sẽ bị xóa và không thể khôi phục.\nNếu bạn xóa một nhóm, bạn sẽ không thể nhận được các đặt lịch trên trang đặt lịch của nhóm đó, và bạn sẽ không thể xác nhận, thay đổi hoặc hủy các sự kiện bạn đã nhận được từ nhóm đó.",
+    "btn": "Xóa"
+  },
+  "setting": ": Thiết lập nhóm"
+}

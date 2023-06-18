@@ -1,0 +1,9 @@
+{
+  "phone": {
+    "inputError": "Vui lòng chỉ nhập số.",
+    "MUST_11_DIGITS": "Số điện thoại phải có 11 chữ số."
+  },
+  "name": {
+    "inputError": "Tên chỉ có thể được viết bằng tiếng Hàn hoặc tiếng Anh."
+  }
+}

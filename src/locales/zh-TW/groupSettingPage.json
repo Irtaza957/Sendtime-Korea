@@ -1,0 +1,59 @@
+{
+  "infoTitle": "群組設定",
+  "name": {
+    "title": "名稱",
+    "subtitle": "請為群組提供一個名稱。"
+  },
+  "description": {
+    "title": "描述",
+    "subtitle": "提供群組的描述\n群組描述將出現在發送給成員的邀請中。"
+  },
+  "settingTitle": "群組預約頁設置",
+  "duration": {
+    "title": "開放期間",
+    "subtitle": "群組成員將分享日曆，時間長度請設定以下天數。"
+  },
+  "location": {
+    "title": "預設地點",
+    "subtitle": "如果您設定了群組成員經常使用的地方，您可以在建立群組預約頁時輕鬆添加。\n請輸入您的預設地點名稱。",
+    "placeholder": "請輸入您的預設地點名稱。",
+    "addBtn": "新增"
+  },
+  "availability": {
+    "title": "可用時間",
+    "subtitle": "請設定您要在預約頁上顯示的可用時間範圍。\n被邀請人將無法在以下日子/時間範圍外進行預約。"
+  },
+  "inviteSettingTitle": "邀請設定",
+  "deleteMessage": {
+    "title": "是否刪除項目？",
+    "subtitle": "刪除項目後，群組成員將無法在加入時輸入，並且您收集的任何信息都將被刪除，且無法恢復。"
+  },
+  "customField": {
+    "title": "被邀請人必填欄位",
+    "subtitle": "提供成員加入群組時填寫的信息。\n姓名和電子郵件地址為必填項，您還可以添加各種其他項目，例如公司名稱和職位。",
+    "add": {
+      "placeholder": "請提供項目。",
+      "btn": "新增"
+    },
+    "required": {
+      "title": "必填",
+      "previewTitle": "預覽",
+      "name": {
+        "title": "姓名",
+        "placeholder": "Kim"
+      },
+      "email": {
+        "title": "電子郵件地址",
+        "placeholder": "example@splab.dev"
+      }
+    }
+  },
+  "saved": "所有更改已保存！",
+  "saveBtn": "儲存",
+  "delete": {
+    "title": "刪除",
+    "subtitle": "這個群組將被刪除，且無法恢復。\n如果您刪除了群組，您將無法在群組的預約頁面上接收預約，也無法確認、更改或取消您已從該群組接收的事件。",
+    "btn": "刪除"
+  },
+  "setting": ": 群組設置"
+}

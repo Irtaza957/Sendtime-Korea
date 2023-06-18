@@ -1,0 +1,9 @@
+{
+  "phone": {
+    "inputError": "請只輸入數字。",
+    "MUST_11_DIGITS": "電話號碼必須是11位數。"
+  },
+  "name": {
+    "inputError": "姓名只能用韓文或英文書寫。"
+  }
+}

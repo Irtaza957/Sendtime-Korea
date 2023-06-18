@@ -1,0 +1,32 @@
+{
+  "title": "그룹 참여자 초대",
+  "subtitle": "그룹으로 초대할 참여자들의 정보를 입력해주세요. 해당 메일로 초대 메일이 전송됩니다.",
+  "inviteMessage": "초대 메시지",
+  "list": {
+    "title": "그룹참여자",
+    "numberOfPeople": "명",
+    "add": "참여자 추가"
+  },
+  "btn": {
+    "confirm": "초대하기",
+    "cancel": "취소"
+  },
+  "input": {
+    "name": {
+      "value": "이름",
+      "placeholder": "John"
+    },
+    "email": {
+      "value": "이메일",
+      "placeholder": "name@gmail.com"
+    }
+  },
+  "modal": {
+    "title": "초대가 완료되었습니다.",
+    "description": "참여자에게 이메일로 초대 알림이 전송되었습니다. 초대 현황은 ‘참여자 관리’ 탭에서 확인하실 수 있습니다.",
+    "btn": "초대 현황 보기"
+  },
+  "alert": {
+    "duplicate": "님께서는 이미 그룹에 속해있어 초대 메일을 다시 보낼 수 없습니다. 그 이외 인원은 모두 초대메일이 정상적으로 발송되었습니다."
+  }
+}

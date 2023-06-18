@@ -1,0 +1,23 @@
+{
+  "title": "그룹 캘린더 리스트",
+  "createBtn": "그룹 만들기",
+  "message": {
+    "noGroups": "생성된 그룹 캘린더가 없습니다. \n 그룹을 만들고 1달 무료체험을 시작해보세요.",
+    "missingURL": {
+      "title": "앗!",
+      "description": "회원가입 단계에서 누락된 내용이 있어 \n예약페이지를 만들 수 없습니다. \n개인 프로필 페이지 링크에 들어갈 \n커스텀 URL을 만들어주세요."
+    },
+    "deleteWarning": {
+      "title": "해당 그룹 캘린더를 삭제하시겠습니까?",
+      "description": "삭제하면 해당 그룹의 예약페이지로 예약을 받을 수 없고,\n기존에 해당 그룹으로 받은 예약의 확정/변경/취소가 불가능합니다."
+    }
+  },
+  "columns": {
+    "name": "그룹 이름",
+    "createDateTime": "생성 일시",
+    "memberCount": "그룹원 수",
+    "calendarOpenPeriod": "참여자 캘린더 공개 기간"
+  },
+  "manage": "그룹 관리",
+  "delete": "그룹 삭제"
+}

@@ -1,0 +1,24 @@
+{
+  "question1": "使用 Sendtime 的體驗如何？",
+  "npsBad": "差",
+  "npsGood": "優秀",
+  "question2": "您在使用我們的過程中感到缺少或失望的地方是什麼？",
+  "answersForQuestion2": {
+    "1": "不易使用",
+    "2": "操作複雜",
+    "3": "技術問題（蟲子）",
+    "4": "其他"
+  },
+  "question3": {
+    "title": "我們如何才能改善您的體驗？",
+    "description": "我們非常重視客戶的所有想法和建議，無論它們是正面的還是批評性的。在未來，我們的團隊可能會與您聯繫，以了解如何進一步改善。"
+  },
+  "placeholder": "",
+  "closing": {
+    "title": "感謝您的反饋！",
+    "subtitle": "我們非常感謝您的想法、建議和意見。",
+    "joinGuide": "加入我們的 Slack 社群，與其他用戶協作，一起幫助我們提升 Sendtime！",
+    "joinBtn": "立即加入",
+    "joinLink": "https://join.slack.com/t/sendtimecommunity/shared_invite/zt-1fkz6a45w-ZaOyBeBWccqkNh7PsmIDfw"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "refresh": "새로고침이 필요합니다.",
+  "memberError": {
+    "title": "탈퇴한 사용자가 존재합니다.",
+    "description": "지속적으로 탈퇴한 사용자가 보이신다면\nhelp@splab.dev로 연락 바랍니다."
+  },
+  "goingBackAlertforGroup": "만드시던 예약 페이지의 내용이 전부 사라지며 그룹 캘린더로 되돌아갑니다.\n뒤로 가시겠습니까?",
+  "googleCalendarPermissionRequired": "구글 캘린더 연동을 설정하셔야 서비스 이용이 가능합니다. 권한을 허용해주세요.",
+  "serverError": "문제가 생겼습니다. 다시 로드해주세요. 지속적으로 이 문제가 생긴다면 help@splab.dev로 연락 혹은 카카오톡 채널(http://pf.kakao.com/_NlnQb/chat)로 문의해주세요.",
+  "404": {
+    "title": "링크가 잘못되었거나 페이지가 삭제되었을 수 있습니다.\n열려고 하는 링크가 올바른지 확인해보세요.",
+    "btn": "홈으로 이동"
+  },
+  "deletedPage": {
+    "title": "삭제된 예약페이지입니다",
+    "subtitle": "예약의 확정과 취소만 가능하고, 변경이 불가능합니다.\n예약페이지 관리자에게 문의해주세요.",
+    "btn": "홈으로 이동"
+  },
+  "deactivatedPage": {
+    "title": "비활성화된 예약페이지입니다",
+    "subtitle": "예약페이지 관리자가 비활성화한 예약페이지입니다.\n해당 링크를 전달한 예약페이지 관리자에게 문의해주세요.",
+    "btn": "Back to Home"
+  }
+}

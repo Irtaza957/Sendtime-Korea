@@ -1,0 +1,86 @@
+{
+  "title": "建立預約頁面",
+  "bookingPageName": {
+    "title": "預約頁面名稱",
+    "placeholder": ""
+  },
+  "description": {
+    "title": "描述/指示",
+    "placeholder": "寫下活動的簡介和參加者應該知道的任何詳細資料。"
+  },
+  "dateRange": {
+    "title": "日期範圍",
+    "subtitle": "人們可以在什麼時間預約這個會議？設定您可以接受會議的日期範圍。",
+    "custom": "輸入天數：從今天開始",
+    "custom2": "天以後",
+    "indefinite": "無限期地往未來預約",
+    "errorMessage": "無法設定日期範圍。"
+  },
+  "duration": {
+    "title": "持續時間",
+    "subtitle": "定義您的活動將持續多久。最長可達 12 小時。",
+    "inputBoxPlaceHolder": "搜尋",
+    "toggleTitle": "多個",
+    "emptyMessage": "請選擇一個或多個時間單位。"
+  },
+  "location": {
+    "title": "地點",
+    "subtitle": "添加地點。您可以添加多個參加者可以選擇的地點。",
+    "customField": {
+      "title": "自訂",
+      "placeholder": "留下自定義位置詳細資料"
+    },
+    "addButton": "添加",
+    "googleMeetGuide": "（使用 Google 整合，Google Meet 連結將自動通過發送時間發送）。",
+    "phoneCall": "電話",
+    "askInterviewee": "詢問受訪者"
+  },
+  "preview": {
+    "title": "預覽頁面",
+    "subtitle": "在日曆上選擇空閒時間段。"
+  },
+  "formPreview": {
+    "title": "預約持有者的表單預覽"
+  },
+  "timeSlotSetting": {
+    "title": "參加者可以向您發送時間建議，最多..",
+    "subtitle": "您可以選擇一到十個時間段。",
+    "numberOfSlots": {
+      "1": "最多 1 個時間段",
+      "2": "最多 2 個時間段",
+      "3": "最多 3 個時間段",
+      "4": "最多 4 個時間段",
+      "5": "最多 5 個時間段",
+      "6": "最多 6 個時間段",
+      "7": "最多 7 個時間段",
+      "8": "最多 8 個時間段",
+      "9": "最多 9 個時間段",
+      "10": "最多 10 個時間段"
+    }
+  },
+  "availability": {
+    "title": "可用性設定",
+    "subtitle": "為您的預約頁面定義自定義時間。"
+  },
+  "buffer": {
+    "title": "新增活動前或後的時間",
+    "subtitle": "為已預約的 Sendtime 活動增加緩衝時間，以便準備或結束。",
+    "beforeEvent": "活動前",
+    "afterEvent": "活動後"
+  },
+  "hideEventInfo": {
+    "title": "隱藏行事曆活動資訊",
+    "subtitle": "您可以將行事曆活動內容公開或隱藏給被邀請者。"
+  },
+  "remind": {
+    "title": "提醒通知",
+    "subtitle": "當一個活動被確認後，系統會在活動前一天自動向您和被邀請者發送一封提醒電子郵件。"
+  },
+  "customBlockingTimes": {
+    "guide": "最後，如果您不希望被邀請者在特定時間預約，\n請在下面的行事曆上拖曳並點擊以設置自訂的勿擾時間。"
+  },
+  "mobile": {
+    "prevideGuide": "預覽頁面",
+    "blockingTimeGuide": "若要設置勿擾時間，請前往網頁版。"
+  }
+}

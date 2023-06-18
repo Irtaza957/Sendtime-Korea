@@ -1,0 +1,74 @@
+{
+  "logout": "Đăng xuất",
+  "prev": "Quay lại",
+  "confirm": "Xác nhận",
+  "next": "Tiếp theo",
+  "edit": "Chỉnh sửa",
+  "create": "Tạo mới",
+  "cancel": "Hủy",
+  "delete": "Xóa",
+  "confirm2": "Xác nhận",
+  "allday": "Cả ngày",
+  "submit": "Gửi",
+  "close": "Đóng",
+  "notAvailable": "Không có sẵn",
+  "am": "SA",
+  "pm": "CH",
+  "calendarLoading": "Việc này có thể mất đến 1-2 phút,\nphụ thuộc vào số lượng thông tin sự kiện lịch.",
+  "min": "phút",
+  "hour": "giờ",
+  "nav_items": {
+    "MY_CALENDAR": "Lịch cá nhân",
+    "GROUP_CALENDAR": "Lịch nhóm",
+    "SPACE": "Space",
+    "MY_RESERVATION": "Sự kiện",
+    "MANAGE": "Trang đặt lịch",
+    "MY_PAGE": "Cài đặt tài khoản"
+  },
+  "buttons": {
+    "calendarSync": "Đồng bộ lịch",
+    "createBookingPage": "Tạo trang đặt lịch"
+  },
+  "titleForPages": {
+    "createBookingPage": "Tạo trang đặt lịch",
+    "editBookingPage": "Chỉnh sửa trang đặt lịch"
+  },
+  "banner": {
+    "guide": "Hãy xem Hướng dẫn Sendtime!",
+    "slackCommunity": "Tham gia Cộng đồng Sendtime trên Slack!"
+  },
+  "errorMessage": {
+    "editBookingPageError": "Xin lỗi, chúng tôi không thể chỉnh sửa trang đặt lịch của bạn, vui lòng làm mới và thử lại. Nếu bạn vẫn tiếp tục nhận được lỗi này, vui lòng liên hệ với chúng tôi tại help@splab.dev.",
+    "createBookingPageError": "Xin lỗi, chúng tôi không thể tạo trang đặt lịch của bạn, vui lòng làm mới và thử lại. Nếu bạn vẫn tiếp tục nhận được lỗi này, vui lòng liên hệ với chúng tôi tại help@splab.dev."
+  },
+  "successMessage": {
+    "createdBookingPage": "Trang đặt lịch của bạn đã được tạo!",
+    "createdGroupBookingPage": "Trang đặt lịch của nhóm của bạn đã được tạo!",
+    "copy": {
+      "title": "Đã sao chép liên kết!",
+      "subtitle": "Đã sao chép vào bộ nhớ tạm.",
+      "fail": "Không thể sao chép liên kết.\nVui lòng thử lại."
+    }
+  },
+  "modal": {
+    "leaveSendtime": {
+      "title": "Bạn có chắc muốn rời khỏi Sendtime?",
+      "subtitle": "Vui lòng liên hệ help@splab.dev"
+    }
+  },
+  "noBookingPageGuide": "Tạo trang đặt lịch đầu tiên của bạn!",
+  "error": "Xin lỗi, vui lòng làm mới trang và thử lại.",
+  "timezone": {
+    "saveConfirmTitle": "Lưu múi giờ đã chọn",
+    "saveConfirmDescription": "Tất cả các trang đặt lịch hiện có sẽ được cập nhật dựa trên múi giờ đã chọn."
+  },
+  "weekdays": {
+    "monday": "Thứ Hai",
+    "tuesday": "Thứ Ba",
+    "wednesday": "Thứ Tư",
+    "thursday": "Thứ Năm",
+    "friday": "Thứ Sáu",
+    "saturday": "Thứ Bảy",
+    "sunday": "Chủ Nhật"
+  }
+}

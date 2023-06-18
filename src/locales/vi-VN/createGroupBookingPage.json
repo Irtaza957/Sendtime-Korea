@@ -1,0 +1,125 @@
+{
+  "title": "Tạo trang đặt lịch nhóm",
+  "editTitle": "Chỉnh sửa trang đặt lịch nhóm",
+  "pageName": {
+    "1": "1. Cài đặt trang",
+    "2": "2. Cài đặt cộng tác viên",
+    "3": "3. Cài đặt khả dụng",
+    "4": "4. Cài đặt bổ sung",
+    "5": "5. Cấu hình biểu mẫu"
+  },
+  "preview": {
+    "title": "Xem trước trang",
+    "subtitle": "Chọn các khoảng thời gian trên lịch."
+  },
+  "formPreview": {
+    "title": "Xem trước biểu mẫu cho người đặt chỗ"
+  },
+  "customBlockingTimes": {
+    "guide": "Cuối cùng, nếu có thời điểm bạn không muốn khách mời đặt lịch, \n vui lòng kéo và nhấp chuột vào lịch bên dưới để thiết lập thời gian tạm ngừng tùy chỉnh."
+  },
+
+  "bookingPageName": {
+    "title": "Tên trang đặt lịch",
+    "placeholder": ""
+  },
+  "description": {
+    "title": "Mô tả/Hướng dẫn",
+    "placeholder": "Viết tóm tắt và bất kỳ chi tiết nào khách mời cần biết về sự kiện."
+  },
+  "dateRange": {
+    "title": "Khoảng thời gian",
+    "subtitle": "Khi nào người khác có thể đặt lịch cho sự kiện này? Thiết lập một khoảng thời gian khi bạn có thể chấp nhận cuộc hẹn.",
+    "custom": "Nhập số ngày: từ hôm nay",
+    "custom2": "ngày trong tương lai",
+    "indefinite": "Vô thời hạn",
+    "errorMessage": "Không thể thiết lập khoảng thời gian."
+  },
+  "duration": {
+    "title": "Thời lượng",
+    "subtitle": "Xác định thời lượng của sự kiện của bạn. Nó có thể kéo dài tới 12 giờ.",
+    "inputBoxPlaceHolder": "Tìm kiếm",
+    "toggleTitle": "Nhiều",
+    "emptyMessage": "Vui lòng chọn một hoặc nhiều đơn vị thời gian."
+  },
+  "location": {
+    "title": "Địa điểm",
+    "subtitle": "Thêm địa điểm. Bạn có thể thêm nhiều địa điểm mà khách mời có thể lựa chọn.",
+    "customField": {
+      "title": "Tùy chỉnh",
+      "placeholder": "Để lại chi tiết địa điểm tùy chỉnh"
+    },
+    "addButton": "Thêm",
+    "googleMeetGuide": "(Với tích hợp Google, liên kết Google Meet sẽ được gửi tự động thông qua sendtime).",
+    "phoneCall": "Gọi điện thoại",
+    "askInterviewee": "Yêu cầu phỏng vấn"
+  },
+  "timeSlotSetting": {
+    "title": "Người được mời có thể gửi gợi ý thời gian cho bạn tới..",
+    "subtitle": "Bạn có thể chọn từ một đến mười.",
+    "numberOfSlots": {
+      "1": "Lên đến 1 khung giờ",
+      "2": "Lên đến 2 khung giờ",
+      "3": "Lên đến 3 khung giờ",
+      "4": "Lên đến 4 khung giờ",
+      "5": "Lên đến 5 khung giờ",
+      "6": "Lên đến 6 khung giờ",
+      "7": "Lên đến 7 khung giờ",
+      "8": "Lên đến 8 khung giờ",
+      "9": "Lên đến 9 khung giờ",
+      "10": "Lên đến 10 khung giờ"
+    }
+  },
+  "availability": {
+    "title": "Cài đặt khả dụng",
+    "subtitle": "Xác định giờ tùy chỉnh cho khả dụng của trang đặt lịch của bạn. \nNgười được mời không thể yêu cầu cuộc hẹn ngoài phạm vi ngày/giờ được chọn bên dưới."
+  },
+  "buffer": {
+    "title": "Thêm thời gian trước hoặc sau sự kiện của bạn.",
+    "subtitle": "Hãy để cho mình một thời gian chờ để chuẩn bị cho sự kiện được đặt Sendtime hoặc kết thúc sự kiện.",
+    "beforeEvent": "Trước sự kiện",
+    "afterEvent": "Sau sự kiện"
+  },
+  "hideEventInfo": {
+    "title": "Ẩn thông tin sự kiện trong lịch",
+    "subtitle": "Bạn có thể làm nội dung sự kiện trong lịch công khai hoặc riêng tư đối với người được mời."
+  },
+  "remind": {
+    "title": "Thông báo nhắc nhở",
+    "subtitle": "Khi một sự kiện được xác nhận, một email nhắc nhở sẽ tự động được gửi đến bạn và người được mời 1 ngày trước sự kiện đã được xác nhận."
+  },
+  "mobile": {
+    "prevideGuide": "Trang xem trước",
+    "blockingTimeGuide": "Để đặt thời gian Không làm phiền, hãy truy cập trang web."
+  },
+  "alert": {
+    "openDurationAlert1": "Lịch Nhóm này chỉ được mở trong",
+    "openDurationAlert2": "",
+    "noEvent": {
+      "title": "Cảnh báo!",
+      "subtitle": "Tùy chọn này có nghĩa là trang đặt lịch sẽ luôn mở, \n do đó các sự kiện từ lịch tích hợp hoặc sự kiện Sendtime được xác nhận\nsẽ không bị chặn trên trang này."
+    }
+  },
+  "cohostSetting": {
+    "title": "Cài đặt sẵn sàng của người chủ trì phụ",
+    "1": {
+      "title": "Chỉ nhận đặt lịch khi tất cả các người chủ trì phụ có sẵn",
+      "description": ""
+    },
+    "2": {
+      "title": "Chấp nhận đặt lịch khi ít nhất một người chủ trì phụ có sẵn",
+      "description": ""
+    },
+    "3": {
+      "title": "Chấp nhận đặt lịch bất kể lịch trình của tất cả các người chủ trì phụ",
+      "description": "",
+      "allowBlockingTimesText": "Không cho phép khách đặt chỗ vào các khung giờ bị chặn."
+    }
+  },
+  "eventHost": {
+    "title": "Chủ nhân sự kiện lịch Google",
+    "subtitle": "",
+    "description": "Các sự kiện sẽ được tạo trên lịch Sendtime."
+  },
+  "noOrganizer": "Tất cả các thành viên được chọn không tích hợp lịch ngoài(Google)."
+}

@@ -1,0 +1,89 @@
+{
+  "save": "儲存",
+  "account": {
+    "title": "個人檔案",
+    "name": "姓名",
+    "phoneNumber": "電話號碼",
+    "email": "電子郵件地址",
+    "notiGuide": "*(通知將會發送)",
+    "leave": "離開時間",
+    "language": "語言"
+  },
+  "calendar": {
+    "title": "行事曆連接",
+    "addBtn": "新增行事曆帳戶",
+    "integratedCalendarList": {
+      "title": "我的行事曆帳戶",
+      "deintegrate": "斷開連接",
+      "warning": "請整合您的行事曆帳戶！",
+      "deintegrateConfirm": "確定要斷開這個行事曆帳戶的連接嗎？"
+    },
+    "eventIntegrated": {
+      "title": "檢查衝突",
+      "subtitle": "選擇要檢查衝突的行事曆，以避免預約重複。",
+      "calendarAccount": "",
+      "edit": "編輯"
+    },
+    "advanceSetting": {
+      "title": "根據狀態選擇事件。",
+      "subtitle": "選擇的事件將立即應用於您的行事曆和可用性。",
+      "option": {
+        "1": "勾選 '是'",
+        "2": "勾選 '否'",
+        "3": "勾選 '或許'",
+        "4": "尚未決定"
+      }
+    },
+    "addToCalendar": {
+      "title": "加入行事曆",
+      "subtitle": "設置您想要添加新事件的行事曆。",
+      "calendarAccount": "",
+      "warning": "選擇您要將 Sendtime 事件添加到的行事曆。",
+      "edit": "編輯"
+    }
+  },
+  "serviceIntegration": {
+    "title": "整合服務",
+    "integrated": "已連接",
+    "slack": {
+      "title": "Slack",
+      "subtitle": "接收 Slack 通知有關所有我的 Sendtime 事件"
+    },
+    "zoom": {
+      "title": "Zoom",
+      "subtitle": "將 Zoom 詳細信息包括在您的 Sendtime 事件中。"
+    },
+    "googleMeet": {
+      "title": "Google Meet",
+      "subtitle": "將 Google Meet 詳細信息包括在您的 Sendtime 事件中。"
+    },
+    "googleSheet": {
+      "title": "Google Sheet（小組）",
+      "subtitle": "所有個人預約信息都會每 6 小時自動添加到 Google Sheets。"
+    },
+    "googleSheet2": {
+      "title": "Google Sheet（三方協調）",
+      "subtitle": "所有三方協調信息都會每 6 小時自動添加到 Google Sheets。"
+    },
+    "googleSheet3": {
+      "title": "Google Sheet（個人）",
+      "subtitle": "所有個人預約信息都會每 6 小時自動添加到 Google Sheets。"
+    }
+  },
+  "myCalendarSetting": {
+    "title": "我的行事曆設定",
+    "availability": {
+      "title": "設定您的可用時間",
+      "subtitle": "請設定您希望在預約頁面中顯示的可用時間。\n被邀請人將無法預約超出所選日期/時間範圍之外的時間。"
+    },
+    "favPlace": {
+      "title": "預設地點",
+      "subtitle": "如果您將其設置為預設位置，則在創建預約頁面時可以輕鬆添加。",
+      "placeholder": "舊金山共事辦公室",
+      "addBtn": "新增"
+    }
+  },
+  "message": {
+    "save": "儲存成功。"
+  }
+}

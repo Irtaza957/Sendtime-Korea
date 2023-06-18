@@ -1,0 +1,77 @@
+{
+  "upcoming": {
+    "title": "即將到來的活動",
+    "noEvent": "目前沒有即將到來的活動"
+  },
+  "pending": {
+    "title": "待處理的活動",
+    "noEvent": "目前沒有待處理的活動"
+  },
+  "passed": {
+    "title": "已過期的活動",
+    "noEvent": "目前沒有已過期的活動"
+  },
+  "eventInfo": {
+    "name": "受邀者名稱",
+    "email": "電子郵件",
+    "phone": "電話號碼",
+    "purpose": "預約目的",
+    "message": "留言",
+    "venue": "預約地點"
+  },
+  "groupInfo": {
+    "title": "群組名稱",
+    "attendee": "參加者"
+  },
+  "seemMore": "查看更多",
+  "confirm": "確認",
+  "reschedule": "重新排定",
+  "cancel": "取消",
+  "reasonForCancel": "取消原因",
+  "reasonForReschedule": "重新排定原因",
+  "message": {
+    "delete": {
+      "title": "您確定要刪除此預約頁面嗎？",
+      "subtitle": "一旦删除，您将无法恢复事件数据。\n通过此预订页面接收到的事件不会被删除，但无法确认、重新安排或取消。"
+    },
+    "deactivate": {
+      "title": "您確定要停用此頁面嗎？",
+      "subtitle": "如果您停用此頁面，您將無法再接收到透過此預約頁面的活動。",
+      "btn": "停用"
+    },
+    "confirm": {
+      "title": "您確定要啟用此頁面嗎？",
+      "subtitle": "啟用後，您可以再次接收透過此預約頁面的活動。",
+      "btn": "啟用"
+    }
+  },
+
+  "exportBtn": "匯出",
+  "editBtn": "編輯",
+  "deleteBtn": "刪除",
+  "duration": "",
+  "option": "",
+  "howmany": " 個選項",
+  "URLcopy": "複製連結",
+  "customPage": "自訂頁面",
+  "activate": "啟用",
+  "hour": " 小時",
+  "min": " 分鐘",
+  "canceledEvent": "已取消",
+  "editedEvent": "已重新排定",
+  "priority": "第二",
+  "exportModal": {
+    "title": "匯出",
+    "withButton": "複製按鈕程式碼",
+    "withButtonDescription": "複製程式碼並貼到預約頁面的按",
+    "withQR": "匯出為QR碼",
+    "withQRDescription": "將預訂頁面複製為QR碼，並貼到您想要的地方。",
+    "copyBtn": "複製",
+    "preview": "預覽",
+    "imageAltText": "Sendtime預訂頁面"
+  },
+  "confirmModal": {
+    "Btndescription": "\n當發送電子郵件時，\n您可以將代碼粘貼到HTML編輯器中。",
+    "QRDescription": "\n您也可以將圖像粘貼到需要的地方。"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "slotSelected": "slots selected",
+  "rank": {
+    "1": "st",
+    "2": "nd",
+    "3": "rd",
+    "4": "th",
+    "5": "th",
+    "6": "th",
+    "7": "th",
+    "8": "th",
+    "9": "th",
+    "10": "th"
+  },
+  "location": {
+    "value": "Venue",
+    "placeholder": "Any other preferred venue.",
+    "alert": {
+      "link": " will send you a link shortly.",
+      "phone": " will be in touch shortly."
+    }
+  },
+  "reason": "Reason for booking",
+  "message": "Message",
+  "preview": {
+    "description": "Select open slots on the calendar",
+    "standardTime": "Time zone: GMT+09:00, South Korea - Seoul",
+    "timezone": "TimeZone: ",
+    "showingTimes": "Times shown in",
+    "location": {
+      "alert": "Please let me know where you'd like to meet, on the next page.",
+      "phone": "Phone Call"
+    },
+    "chooseFrom": {
+      "leading": "Choose from ",
+      "trailing": ""
+    }
+  },
+  "alert": {
+    "selectAgain": "Please select your reservation time again.",
+    "fill": {
+      "name": "Please fill out the required field above.",
+      "organization": "Please fill out the required field above.",
+      "phone": "Please fill out the required field above.",
+      "email": "Please fill out the required field above.",
+      "location": "Please fill out the location field below."
+    },
+    "invalid": {
+      "phone": "Enter numbers only.",
+      "email": "Invalid email address"
+    },
+    "confirm": {
+      "alreadyDone": "This reservation has already been confirmed."
+    },
+    "cancel": {
+      "alreadyDone": "This reservation has already been canceled"
+    },
+    "doubleBooked": {
+      "alreadyDone": "Confirmed Reservation.",
+      "continue": "This reservation has already been confirmed. \n Are you sure you want toconfirm your reservation?",
+      "buttonText": "Force Confirm"
+    },
+    "inactivated": "This reservation page has been inactivated by host.",
+    "deleted": "This reservation page has been deleted by host."
+  },
+  "completed": {
+    "title": "Event confirmed!",
+    "description": "We sent the host and the guest a notification email.",
+    "freeTrial": {
+      "leading": "We offer free trial to the guests landed here.",
+      "bold": "Sign up now for free and unlock all the features.",
+      "trailing": ""
+    },
+    "emailBoxTitle": "Easy, collaborative scheduling",
+    "button": "Sign up free",
+    "emailBoxHelpText": "No credit card is required.",
+    "nextTime": "Maybe later"
+  },
+  "change": {
+    "title": "Would you like to reschedule this event?",
+    "description": "All attendees will receive automated notification emails.",
+    "reason": "Reason for change",
+    "placeholder": "Max 3,000 letters",
+    "button": "Update the event"
+  },
+  "cancel": {
+    "title": "Would you like to cancel this event?",
+    "description": "All attendees will receive automated notification emails.",
+    "reason": "Reason for cancel",
+    "placeholder": "Max 3,000 letters",
+    "button": "Update the event"
+  },
+  "reselect": {
+    "title": "Would you like to reselect?",
+    "description": {
+      "leading": "Select one of the suggested times below.",
+      "trailing": "All attendees will receive automated notification emails"
+    },
+    "button": "Update the event"
+  },
+  "confirm": {
+    "title": "Confirm the event.",
+    "description": {
+      "leading": "Select one of the suggested times below. ",
+      "trailing": "All attendees will receive automated notification emails"
+    },
+    "button": "Update the event"
+  },
+  "emailComplete": {
+    "type": {
+      "confirm": "Event confirmed!",
+      "cancel": "Event canceled!",
+      "change": "Event changed!"
+    },
+    "content": {
+      "leading": "We sent you and the invitee a notification email.",
+      "middle": "Please contact us for help if anyone missed the email.",
+      "trailing": ""
+    },
+    "button": {
+      "home": "My calendar",
+      "schedule": "Scheduled events"
+    },
+    "cs": {
+      "email": "Email",
+      "slack": "Slack Channel",
+      "phone": "CS Number"
+    }
+  },
+  "chooseMoreTime": {
+    "title": "Looks like you can select more than one time slot!",
+    "description": {
+      "leading": "Would be great if you suggest multiple time slots \n before you send.",
+      "trailing": ""
+    },
+    "buttonText": "Will do",
+    "skip": "This is the only time slot I can offer."
+  },
+  "bannerImage": "no_available_time_lang(en)",
+  "mobile": {
+    "description": "Select from suggested times below.",
+    "button": "Send",
+    "showMore": "Show More",
+    "showLess": "Show Less"
+  },
+  "noTimeBtn": "Need other options?",
+  "confirmMessage": {
+    "title": "Add a Message!",
+    "subtitle": "",
+    "placeholder": "Add a personal note to your confirmation notification."
+  },
+  "form": {
+    "title": "Enter details",
+    "subTitle": "Guest information"
+  }
+}

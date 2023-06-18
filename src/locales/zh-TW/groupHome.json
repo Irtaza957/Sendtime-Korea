@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "openDuration": "團體行事曆開放期間",
+  "sidebar": {
+    "attendees": "成員",
+    "allSelect": "全選",
+    "allDeselect": "取消全選",
+    "memberSetting": "成員設定",
+    "groupSetting": "團體設定"
+  },
+  "modal": {
+    "continue": "繼續",
+    "title": "使用所選成員創建預約頁面。",
+    "subtitle": "選定的參與者將被創建為預約頁面的事件參與者。有關該事件的通知也將發送給所選參與者。"
+  },
+  "noSelectedMemberModal": {
+    "title": "選擇一個或多個參與者創建預約頁面。",
+    "subtitle": "您可以通過在團體行事曆旁邊的側欄中選擇團體成員來添加參與者。"
+  }
+}

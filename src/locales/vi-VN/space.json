@@ -1,0 +1,97 @@
+{
+  "buildMyCard": "Đăng ký thẻ của tôi",
+  "requestMeeting": "Đặt lịch hẹn ngay",
+  "more": "Xem thêm",
+  "poweredBySpaceTitle": "Create a Space for your event now",
+  "poweredBySpaceSubtitle": "Do you want to use this page at your event? →",
+  "loginToEditYourProfileCard": "Đăng nhập để chỉnh sửa thẻ hồ sơ của bạn",
+  "eventAttendeesList": "Danh sách người tham dự sự kiện",
+  "aboutTheEvent": "Về sự kiện",
+  "menu": {
+    "buildMyCard": "Tạo Thẻ Của Tôi",
+    "goToSendtime": "Đi Đến Sendtime",
+    "logout": "Đăng Xuất"
+  },
+  "addCardModal": {
+    "title": "Tạo thẻ hồ sơ của bạn 😎",
+    "updateTitle": "Cập nhật thẻ hồ sơ của bạn",
+    "yourCardMissing": "Oops, bạn đã thiếu mất thẻ của mình!",
+    "createOneToSeeMore": "Tạo thẻ của bạn ngay để kết nối với người phù hợp hơn. 🚀",
+    "createOneToMeet": "Tạo thẻ của bạn ngay để kết nối với người phù hợp hơn. 🚀",
+    "alreadyHaveAccount": "Bạn đã có chưa?",
+    "login": "Đăng nhập",
+    "signUpSectionTitle": "Đăng ký dễ dàng trong 3 giây",
+    "name": "Tên",
+    "namePlaceholder": "John",
+    "email": "Email",
+    "emailPlaceholder": "name@email.com",
+    "phone": "Số điện thoại",
+    "phonePlaceholder": "010-1234-5678",
+    "infoSectionTitle": "Kể cho chúng tôi về bạn.",
+    "nameOnYourCard": "Tên trên thẻ của bạn",
+    "bio": "Tiểu sử",
+    "bioPlaceholder": "Ví dụ: Xin chào, tôi là Min, người sáng lập Sendtime. Tôi muốn gặp những người có năng lực và những khách hàng tiềm năng thú vị.",
+    "hashtags": "Hashtags",
+    "hashtagsPlaceholder": "Vui lòng nhập các từ khóa, như lĩnh vực, sự kết nối, phòng ban, vv. được phân tách bằng dấu phẩy.",
+    "profileImage": "Hình ảnh hồ sơ (tối đa 10MB)",
+    "reservationPage": "Bạn muốn sử dụng trang đặt phòng nào?",
+    "createNewReservationPage": "Tôi muốn tạo một trang đặt phòng mới",
+    "socialLinkPlaceholder": "username or URL",
+    "contentsSharingAgreement": "Space hiệp định",
+    "contentsSharingAgreement1": "Tôi cho phép các thẻ của tôi trong không gian này được phơi bày trên các công cụ tìm kiếm.",
+    "contentsSharingAgreement2": "Tôi cho phép các thẻ của tôi được giới thiệu hoặc được đề xuất trên các phương tiện truyền thông liên quan đến Sendtime như trang web Sendtime, bản tin, blog, bài báo, không gian Sendtime chính thức, v.v.",
+    "buttonText": "Tạo thẻ",
+    "payButtonText": "Thanh toán và tạo thẻ",
+    "updateButtonText": "Cập nhật thẻ",
+    "nextButtonText": "Tiếp theo",
+    "alerts": {
+      "successTitle": "Thẻ của bạn đã được tạo!",
+      "updateSuccessTitle": "Thẻ của bạn đã được cập nhật!",
+      "successMessage": "Kiểm tra email chào mừng để được hướng dẫn sử dụng.",
+      "nameEmptyError": "Vui lòng nhập tên của bạn.",
+      "emailFormatError": "Vui lòng nhập địa chỉ email hợp lệ.",
+      "phoneFormatError": "Vui lòng nhập số điện thoại hợp lệ.",
+      "onlyImage": "Không phải là một hình ảnh hợp lệ. Vui lòng tải lên một tệp png hoặc jpg.",
+      "imageSize": "Chỉ cho phép tải lên các tệp hình ảnh dung lượng tối đa {{size}}MB.",
+      "agreement": "Bằng cách nhấn vào nút, tôi đồng ý với <terms>Điều khoản Dịch vụ</terms> và <privacy>Chính sách Bảo mật</privacy>.",
+      "checkInputs": "Vui lòng kiểm tra lại thông tin.",
+      "alreadyRegistered": "Người dùng này đã đăng ký.",
+      "alreadyInSpace": "Người dùng này đã đăng ký trong không gian này.",
+      "somethingWrong": "Đã xảy ra lỗi. Vui lòng thử lại.",
+      "noReservationPage": "Không có trang đặt phòng nào.",
+      "reservationPageNotFound": "Không tìm thấy trang đặt phòng đã chọn."
+    }
+  },
+  "enterCodePage": {
+    "title": "Nhập mã",
+    "button": "Tham gia",
+    "alerts": {
+      "wrongTitle": "Oops, bạn đã nhập sai.",
+      "wrongDescription": "Vui lòng thử lại."
+    }
+  },
+  "sendMessageModal": {
+    "title": "Gửi tin nhắn",
+    "description": "Tin nhắn sẽ được gửi qua email",
+    "to": "Đến",
+    "message": "Tin nhắn",
+    "enterMessage": "Nhập tin nhắn của bạn",
+    "messageNote": "Khi gửi email, sẽ được chia sẻ như sau.",
+    "send": "Gửi",
+    "cancel": "Hủy",
+    "successMessage": "Bạn đã gửi một tin nhắn thành công."
+  },
+  "alerts": {
+    "cannotReactMyCard": "Bạn không thể phản ứng với thẻ của mình.",
+    "completePaymentModalTitle": "Vui lòng hoàn tất thanh toán!",
+    "completePaymentModalMessage": "Bạn cần hoàn tất thanh toán để tạo thẻ của tôi và truy cập vào tất cả các tính năng của không gian.",
+    "completePaymentModalButton": "Thanh toán"
+  },
+  "spaceInformationMadal": {
+    "title": "Thông báo",
+    "description1": "Bạn chưa đăng nhập. Bạn cần đăng nhập để gửi tin nhắn cho người khác.",
+    "description2": "Bạn không có thẻ. Bạn cần có một thẻ để gửi tin nhắn cho người khác.",
+    "loginButton": "Đã có tài khoản? Đăng nhập",
+    "registerButton": "Đăng ký ngay"
+  }
+}

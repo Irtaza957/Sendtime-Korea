@@ -1,0 +1,55 @@
+{
+  "joinPath": {
+    "title": "How did you hear about us?",
+    "description": "Select all that apply",
+    "paths": [
+      "Recommended by friend/colleague",
+      "Search engine (Google, Yahoo, etc.)",
+      "Through booking a meeting using Sendtime",
+      "Instagram",
+      "Sendtime Blog",
+      "Linked in",
+      "Twitter"
+    ],
+    "other": "Other(please specify)",
+    "next": "Next"
+  },
+  "integrateCalendar": {
+    "title": "Integrate your frequently used calendar",
+    "subtitle": "When you integrate your calendar,\nIt will be updated in real-time on Sendtime.",
+    "skip": "Skip",
+    "pleaseWait": "Integrating your calendars..\nIt might take some time when the data is too big.\nMeanwhile, do not refresh the page."
+  },
+  "calendarCategory": {
+    "title": "Integrate your frequently used calendar",
+    "description": "When you integrate your calendar,\nIt will be updated in real-time on Sendtime.",
+    "account": "{{email}}",
+    "integrate": "Next"
+  },
+  "calendarName": {
+    "google": "Google Calendar",
+    "outlook": "Outlook Plugin"
+  },
+  "timeSetting": {
+    "title": "예약 페이지에\n공개할 시간을 설정해주세요.",
+    "availableTime": "가능한 시간",
+    "availableTimeDescription": "예약자는 아래 시간 범위 외의 시간에 예약을 신청할 수 없습니다.",
+    "availableTimeAlert": "Invalid time range.",
+    "availableDay": "가능한 요일",
+    "availableDayDescription": "예약자는 아래 선택된 요일 외의 요일에 예약을 신청할 수 없습니다.",
+    "dontWorry": "걱정하지 마세요!\n앞으로 예약 페이지를 만들 때 마다 공개할 시간 설정을 새로 할 수 있습니다.",
+    "skip": "나중에하기",
+    "next": "다음"
+  },
+  "setURL": {
+    "subtitle": "And now for the final step!",
+    "title": "Set your Sendtime URL.",
+    "next": "Next",
+    "duplicated": "This URL is already in use. Please try another one."
+  },
+  "message": {
+    "MAX_URL": "Maximum 15 characters allowed.",
+    "ENG_NUM": "Only English and numbers are allowed.",
+    "EMPTY": "Please enter a URL."
+  }
+}

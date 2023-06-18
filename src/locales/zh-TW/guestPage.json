@@ -1,0 +1,156 @@
+{
+  "slotSelected": "已選時間",
+  "rank": {
+    "1": "第一",
+    "2": "第二",
+    "3": "第三",
+    "4": "第四",
+    "5": "第五",
+    "6": "第六",
+    "7": "第七",
+    "8": "第八",
+    "9": "第九",
+    "10": "第十"
+  },
+  "location": {
+    "value": "地點",
+    "placeholder": "任何其他首选地点。",
+    "alert": {
+      "link": "稍后将发送链接。",
+      "phone": "稍後將與您聯繫"
+    }
+  },
+  "reason": "预订原因",
+  "message": "留言",
+  "preview": {
+    "description": "在日曆上選擇時間",
+    "standardTime": "时区：GMT+09:00，韩国-首尔",
+    "timezone": "时区：",
+    "showingTimes": "显示时间：",
+    "location": {
+      "alert": "请在下一页上告诉我您想要见面的地点。",
+      "phone": "电话呼叫"
+    },
+    "chooseFrom": {
+      "leading": "從",
+      "trailing": "中選擇"
+    }
+  },
+  "alert": {
+    "selectAgain": "请重新选择您的预订时间。",
+    "fill": {
+      "name": "请填写上面的必填字段。",
+      "organization": "请填写上面的必填字段。",
+      "phone": "请填写上面的必填字段。",
+      "email": "请填写上面的必填字段。",
+      "location": "请填写下面的位置字段。"
+    },
+    "invalid": {
+      "phone": "仅输入数字。",
+      "email": "电子邮件地址无效"
+    },
+    "confirm": {
+      "alreadyDone": "此预订已经确认。"
+    },
+    "cancel": {
+      "alreadyDone": "此预订已经取消"
+    },
+    "doubleBooked": {
+      "alreadyDone": "已确认预订。",
+      "continue": "此预订已经确认。\n 您确定要确认您的预订吗？",
+      "buttonText": "强制确认"
+    },
+    "inactivated": "此预订页面已被主办方停用。",
+    "deleted": "此预订页面已被主办方删除。"
+  },
+  "completed": {
+    "title": "活動確認完成！",
+    "description": "我們已經寄送通知信給主辦人和受邀人。",
+    "freeTrial": {
+      "leading": "我們為受邀人提供免費試用。",
+      "bold": "現在免費註冊，解鎖所有功能。",
+      "trailing": ""
+    },
+    "emailBoxTitle": "輕鬆協作排程",
+    "button": "免費註冊",
+    "emailBoxHelpText": "無需信用卡。",
+    "nextTime": "稍後再說"
+  },
+  "change": {
+    "title": "您想重新安排此活動嗎？",
+    "description": "所有參與者將會收到自動通知電子郵件。",
+    "reason": "更改原因",
+    "placeholder": "最多3,000個字母",
+    "button": "更新活動"
+  },
+  "cancel": {
+    "title": "您想取消此活動嗎？",
+    "description": "所有參與者將會收到自動通知電子郵件。",
+    "reason": "取消原因",
+    "placeholder": "最多3,000個字母",
+    "button": "更新活動"
+  },
+  "reselect": {
+    "title": "您想重新選擇嗎？",
+    "description": {
+      "leading": "在以下建議的時間中選擇一個。",
+      "trailing": "所有參與者將會收到自動通知電子郵件。"
+    },
+    "button": "更新活動"
+  },
+  "confirm": {
+    "title": "確認活動。",
+    "description": {
+      "leading": "在以下建議的時間中選擇一個。 ",
+      "trailing": "所有參與者將會收到自動通知電子郵件。"
+    },
+    "button": "更新活動"
+  },
+  "emailComplete": {
+    "type": {
+      "confirm": "活動確認完成！",
+      "cancel": "活動已取消！",
+      "change": "活動已更改！"
+    },
+    "content": {
+      "leading": "我們已經向您和被邀請人發送通知電子郵件。",
+      "middle": "如果有人沒有收到電子郵件，請聯繫我們尋求幫助。",
+      "trailing": ""
+    },
+    "button": {
+      "home": "我的行事曆",
+      "schedule": "已排定活動"
+    },
+    "cs": {
+      "email": "電子郵件",
+      "slack": "Slack 頻道",
+      "phone": "客服電話"
+    }
+  },
+  "chooseMoreTime": {
+    "title": "看起來您可以選擇多個時間段！",
+    "description": {
+      "leading": "在發送前建議您建議多個時間段會更好。",
+      "trailing": ""
+    },
+    "buttonText": "好的",
+    "skip": "這是我唯一能提供的時間段。"
+  },
+  "bannerImage": "no_available_time_lang(en)",
+  "mobile": {
+    "description": "從以下建議的時間段中選擇。",
+    "button": "發送",
+    "showMore": "顯示更多",
+    "showLess": "顯示較少"
+  },
+  "noTimeBtn": "需要其他選項嗎？",
+  "confirmMessage": {
+    "title": "添加留言！",
+    "subtitle": "",
+    "placeholder": "在確認通知中添加個人註釋。"
+  },
+  "form": {
+    "title": "預訂活動",
+    "subTitle": "申請人資訊"
+  }
+}

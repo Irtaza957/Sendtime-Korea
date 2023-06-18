@@ -1,0 +1,14 @@
+{
+  "development": {
+    "HTTP_ONLY": false,
+    "DOMAIN": ".sendtime.app"
+  },
+  "production": {
+    "HTTP_ONLY": true,
+    "DOMAIN": ".sendtime.app"
+  },
+  "test": {
+    "HTTP_ONLY": false,
+    "DOMAIN": ".sendtime.app"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Invite People",
+  "subtitle": "Enter the information of the people you'd like to invite to the group. An invitation will be sent to their email.",
+  "inviteMessage": "Custom Message",
+  "list": {
+    "title": "People to be added",
+    "numberOfPeople": "",
+    "add": "Add"
+  },
+  "btn": {
+    "confirm": "Send",
+    "cancel": "Cancel"
+  },
+  "input": {
+    "name": {
+      "value": "Name",
+      "placeholder": "John"
+    },
+    "email": {
+      "value": "Email",
+      "placeholder": "name@gmail.com"
+    }
+  },
+  "modal": {
+    "title": "Invitation Sent!",
+    "description": "Members have been notified of their invitation by email. \nYou can check the status of your invitation in the 'Member Setting' tab.",
+    "btn": "View invitation status"
+  },
+  "alert": {
+    "duplicate": ", this user is already in the group, so we can't resend the invitation. Everyone else received the invitation successfully."
+  }
+}

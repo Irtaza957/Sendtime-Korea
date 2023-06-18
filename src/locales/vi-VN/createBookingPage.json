@@ -1,0 +1,86 @@
+{
+  "title": "Tạo Trang Đặt Lịch",
+  "bookingPageName": {
+    "title": "Tên trang đặt lịch",
+    "placeholder": ""
+  },
+  "description": {
+    "title": "Mô tả/Hướng dẫn",
+    "placeholder": "Viết một bản tóm tắt và bất kỳ chi tiết nào mà người được mời nên biết về sự kiện."
+  },
+  "dateRange": {
+    "title": "Phạm vi ngày",
+    "subtitle": "Khi nào người khác có thể đặt lịch? Thiết lập một phạm vi các ngày bạn có thể chấp nhận cuộc hẹn.",
+    "custom": "Nhập số ngày: từ hôm nay",
+    "custom2": "ngày trong tương lai",
+    "indefinite": "Vô thời hạn trong tương lai",
+    "errorMessage": "Không thể thiết lập một phạm vi ngày."
+  },
+  "duration": {
+    "title": "Thời lượng",
+    "subtitle": "Xác định thời lượng cho sự kiện của bạn. Nó có thể dài tới 12 giờ.",
+    "inputBoxPlaceHolder": "Tìm kiếm",
+    "toggleTitle": "Nhiều lựa chọn",
+    "emptyMessage": "Vui lòng chọn một hoặc nhiều đơn vị thời gian."
+  },
+  "location": {
+    "title": "Địa điểm",
+    "subtitle": "Thêm địa điểm. Bạn có thể thêm nhiều địa điểm mà người được mời có thể chọn.",
+    "customField": {
+      "title": "Tùy chỉnh",
+      "placeholder": "Để lại thông tin địa điểm tùy chỉnh"
+    },
+    "addButton": "Thêm",
+    "googleMeetGuide": "(Với tích hợp Google, liên kết Google Meet sẽ được tự động gửi qua Sendtime).",
+    "phoneCall": "Cuộc gọi điện thoại",
+    "askInterviewee": "Yêu cầu phỏng vấn"
+  },
+  "formPreview": {
+    "title": "Xem trước biểu mẫu cho người đặt chỗ"
+  },
+  "preview": {
+    "title": "Xem trước trang",
+    "subtitle": "Chọn các khung giờ trống trên lịch."
+  },
+  "timeSlotSetting": {
+    "title": "Người được mời có thể gửi thời gian đề xuất cho bạn đến..",
+    "subtitle": "Bạn có thể chọn từ một đến mười lần.",
+    "numberOfSlots": {
+      "1": "Lên đến 1 khoảng thời gian",
+      "2": "Lên đến 2 khoảng thời gian",
+      "3": "Lên đến 3 khoảng thời gian",
+      "4": "Lên đến 4 khoảng thời gian",
+      "5": "Lên đến 5 khoảng thời gian",
+      "6": "Lên đến 6 khoảng thời gian",
+      "7": "Lên đến 7 khoảng thời gian",
+      "8": "Lên đến 8 khoảng thời gian",
+      "9": "Lên đến 9 khoảng thời gian",
+      "10": "Lên đến 10 khoảng thời gian"
+    }
+  },
+  "availability": {
+    "title": "Cài đặt sẵn sàng",
+    "subtitle": "Định nghĩa giờ tùy chỉnh cho sẵn sàng của trang đặt lịch của bạn. \nNgười được mời không thể yêu cầu cuộc hẹn ngoài phạm vi ngày / giờ được chọn bên dưới."
+  },
+  "buffer": {
+    "title": "Thêm thời gian trước hoặc sau sự kiện của bạn.",
+    "subtitle": "Cung cấp cho mình một thời gian đệm để chuẩn bị hoặc kết thúc từ các sự kiện đã đặt.",
+    "beforeEvent": "Trước sự kiện",
+    "afterEvent": "Sau sự kiện"
+  },
+  "hideEventInfo": {
+    "title": "Ẩn thông tin sự kiện trong lịch",
+    "subtitle": "Bạn có thể làm cho nội dung sự kiện trong lịch công khai hoặc riêng tư cho người được mời."
+  },
+  "remind": {
+    "title": "Thông báo nhắc nhở",
+    "subtitle": "Khi một sự kiện được xác nhận, một email nhắc nhở được tự động gửi đến bạn và người được mời 1 ngày trước sự kiện đã được xác nhận."
+  },
+  "customBlockingTimes": {
+    "guide": "Cuối cùng, nếu có những thời điểm mà bạn không muốn người được mời đặt lịch, \nxin kéo và nhấp chuột vào lịch bên dưới để đặt thời gian Đừng làm phiền tùy chỉnh."
+  },
+  "mobile": {
+    "prevideGuide": "Trang xem trước",
+    "blockingTimeGuide": "Để thiết lập thời gian Không Muốn Bị Làm Phiền, vui lòng truy cập trang web."
+  }
+}

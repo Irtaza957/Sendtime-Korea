@@ -1,0 +1,23 @@
+{
+  "title": "Group Calendar List",
+  "createBtn": "Create Group",
+  "message": {
+    "noGroups": "No group calendars have been created. \n Create a group and start sendtime for groups!",
+    "missingURL": {
+      "title": "Oops!",
+      "description": "We were unable to create your \nbooking page because you are missing something from the signup process. \nPlease create a custom URL for the link to your personal profile page."
+    },
+    "deleteWarning": {
+      "title": "Are you sure you want to delete?",
+      "description": "If you delete the group, you won't be able to receive events on the group's booking page,\nYou will not be able to confirm, change, or cancel any events you have already received from that group."
+    }
+  },
+  "columns": {
+    "name": "Name",
+    "createDateTime": "Created Time",
+    "memberCount": "Number of Members",
+    "calendarOpenPeriod": "Calendar Open Period"
+  },
+  "manage": "Settings",
+  "delete": "Delete"
+}

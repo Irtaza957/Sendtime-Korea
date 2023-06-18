@@ -1,0 +1,68 @@
+{
+  "space": {
+    "spacePageTitle": "我的空間",
+    "needCustom": "個性化您的空間 🚀",
+    "createEventSpace": "建立",
+    "spaceCardTitle": "清單",
+    "edit": "編輯",
+    "noResultText": "找不到結果"
+  },
+  "addEdit": {
+    "handleHelpText": "這將會跟隨網址 'www.sendtime.app/space/@____",
+    "iconHelpText": "只能上傳 png 和 jpg 檔案。",
+    "title": "標題",
+    "handle": {
+      "handle": "空間網址代號",
+      "follow": "這將跟隨網址 “www.sendtime.app/space/@_____”"
+    },
+    "icon": {
+      "label": "圖示影像",
+      "allowed": "僅允許使用 png 和 jpg 檔案。"
+    },
+    "description": "描述",
+    "contact": {
+      "info": "聯絡資訊",
+      "email": "電子郵件",
+      "phone": "電話號碼",
+      "website": "網站"
+    },
+    "one": "1",
+    "two": "2",
+    "three": "3",
+    "four": "4",
+    "five": "5",
+    "additionalSettings": "其他設定",
+    "additionalOptions": {
+      "cardsToBeShown": "我想顯示參與者的卡片...",
+      "inRandom": "隨機",
+      "inAlphabetical": "按字母順序",
+      "needReactionButtons": "我需要每張卡片上的回應按鈕",
+      "yes": "是",
+      "no": "否",
+      "allowPeopleWhoCreatedCards": "只允許卡片創建者查看並請求會議。",
+      "accessControl": "存取控制",
+      "public": "公開",
+      "accessWithPassword": "密碼存取"
+    }
+  },
+  "custom": {
+    "customSpaceTitle": "檢查您的已發佈活動頁面！"
+  },
+  "examplePage": "範例空間",
+  "needHelp": "需要幫助嗎？",
+  "publish": "發佈到網路",
+  "editLater": "您可以稍後進行個性化！",
+  "editSpace": "編輯空間",
+  "createSpace": "建立空間",
+  "goBack": "返回首頁",
+  "editPageAt": "您可以在以下位置編輯您的頁面",
+  "spaceHome": "空間首頁。",
+  "needMoreCustom": "需要更多自訂嗎？",
+  "contactSales": "聯絡銷售部門",
+  "updateErrorMessage": "抱歉，無法更新您的空間，請刷新並重試。如果持續收到此錯誤，請聯絡我們 help@splab.dev。",
+  "createErrorMessage": "抱歉，無法建立您的空間，請刷新",
+  "alert": {
+    "successSpaceCreate": "成功建立空間",
+    "successSpaceUpdate": "成功更新空間"
+  }
+}

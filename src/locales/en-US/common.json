@@ -1,0 +1,74 @@
+{
+  "logout": "Logout",
+  "prev": "Back",
+  "confirm": "Confirm",
+  "next": "Next",
+  "edit": "Edit",
+  "create": "Create",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "confirm2": "Confirm",
+  "allday": "All Day",
+  "submit": "Submit",
+  "close": "Close",
+  "notAvailable": "N/A",
+  "am": "AM",
+  "pm": "PM",
+  "calendarLoading": "This can take up to 1-2 minutes,\ndepending on the amount of calendar event information.",
+  "min": "min",
+  "hour": "hour",
+  "nav_items": {
+    "MY_CALENDAR": "My Calendar",
+    "GROUP_CALENDAR": "Group Calendar",
+    "SPACE": "Space",
+    "MY_RESERVATION": "Events",
+    "MANAGE": "Booking pages",
+    "MY_PAGE": "Account Settings"
+  },
+  "buttons": {
+    "calendarSync": "Sync Calendar",
+    "createBookingPage": "Create Booking Page"
+  },
+  "titleForPages": {
+    "createBookingPage": "Create a booking page",
+    "editBookingPage": "Edit a booking page"
+  },
+  "banner": {
+    "guide": "Check out Sendtime Guide Book!",
+    "slackCommunity": "Join Sendtime Slack Community!"
+  },
+  "errorMessage": {
+    "editBookingPageError": "Sorry, we were unable to edit your booking page, please refresh and try again. If you continue to receive this error, please contact us at help@splab.dev.",
+    "createBookingPageError": "Sorry, we were unable to create your booking page, please refresh and try again. If you continue to receive this error, please contact us at help@splab.dev."
+  },
+  "successMessage": {
+    "createdBookingPage": "Your booking page is now live!",
+    "createdGroupBookingPage": "Your booking page is now live!",
+    "copy": {
+      "title": "Link Copied!",
+      "subtitle": "Copied to clipboard.",
+      "fail": "Failed to copy the link.\nPlease try again."
+    }
+  },
+  "modal": {
+    "leaveSendtime": {
+      "title": "Are you sure you want to leave Sendtime?",
+      "subtitle": "Please contact help@splab.dev"
+    }
+  },
+  "noBookingPageGuide": "Create your first booking page!",
+  "error": "Sorry, please refresh and try again.",
+  "timezone": {
+    "saveConfirmTitle": "Save the selected timezone",
+    "saveConfirmDescription": "All existing reservation pages will be updated based on the selected time zone."
+  },
+  "weekdays": {
+    "monday": "MONDAY",
+    "tuesday": "TUESDAY",
+    "wednesday": "WEDNESDAY",
+    "thursday": "THURSDAY",
+    "friday": "FRIDAY",
+    "saturday": "SATURDAY",
+    "sunday": "SUNDAY"
+  }
+}

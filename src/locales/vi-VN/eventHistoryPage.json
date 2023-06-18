@@ -1,0 +1,77 @@
+{
+  "upcoming": {
+    "title": "Sắp diễn ra",
+    "noEvent": "Không có sự kiện nào sắp diễn ra"
+  },
+  "pending": {
+    "title": "Đang chờ",
+    "noEvent": "Không có sự kiện nào đang chờ"
+  },
+  "passed": {
+    "title": "Đã qua",
+    "noEvent": "Không có sự kiện nào đã qua"
+  },
+  "eventInfo": {
+    "name": "Người được mời",
+    "email": "Email",
+    "phone": "Số điện thoại",
+    "purpose": "Lý do đặt lịch",
+    "message": "Tin nhắn",
+    "venue": "Địa điểm"
+  },
+  "groupInfo": {
+    "title": "Tên nhóm",
+    "attendee": "Người tham dự"
+  },
+  "seemMore": "Xem thêm",
+  "confirm": "Xác nhận",
+  "reschedule": "Đổi lịch",
+  "cancel": "Hủy",
+  "reasonForCancel": "Lý do hủy",
+  "reasonForReschedule": "Lý do đổi lịch",
+  "message": {
+    "delete": {
+      "title": "Bạn có chắc muốn xóa trang đặt lịch này?",
+      "subtitle": "Sau khi xóa, bạn sẽ không thể khôi phục dữ liệu sự kiện.\nCác sự kiện nhận được thông qua trang đặt chỗ này sẽ không bị xóa, nhưng không thể xác nhận, đổi lịch hoặc hủy bỏ."
+    },
+    "deactivate": {
+      "title": "Bạn có chắc muốn vô hiệu hóa trang này?",
+      "subtitle": "Nếu vô hiệu hóa, bạn sẽ không thể nhận được sự kiện từ trang đặt lịch này.",
+      "btn": "Vô hiệu hóa"
+    },
+    "confirm": {
+      "title": "Bạn có chắc muốn kích hoạt trang này?",
+      "subtitle": "Sau khi kích hoạt, bạn có thể nhận được sự kiện qua trang đặt lịch.",
+      "btn": "Kích hoạt"
+    }
+  },
+
+  "exportBtn": "Xuất",
+  "editBtn": "Chỉnh sửa",
+  "deleteBtn": "Xóa",
+  "duration": "",
+  "option": "",
+  "howmany": " Tùy chọn",
+  "URLcopy": "Sao chép liên kết",
+  "customPage": "Trang tùy chỉnh",
+  "activate": "Kích hoạt",
+  "hour": " Giờ",
+  "min": " Phút",
+  "canceledEvent": "Đã hủy",
+  "editedEvent": "Đã đổi lịch",
+  "priority": "thứ 2",
+  "exportModal": {
+    "title": "Xuất",
+    "withButton": "Sao chép thành nút",
+    "withButtonDescription": "Sao chép mã và dán vào nút trên trang đặt lịch.",
+    "withQR": "Xuất dưới dạng mã QR",
+    "withQRDescription": "Sao chép trang đặt lịch dưới dạng mã QR và dán vào bất cứ đâu bạn muốn.",
+    "copyBtn": "Sao chép",
+    "preview": "Xem trước",
+    "imageAltText": "Trang đặt lịch Sendtime"
+  },
+  "confirmModal": {
+    "Btndescription": "\n Khi gửi email, \n bạn có thể dán mã vào trình chỉnh sửa HTML.",
+    "QRDescription": "\n Bạn cũng có thể dán hình ảnh khi cần thiết."
+  }
+}

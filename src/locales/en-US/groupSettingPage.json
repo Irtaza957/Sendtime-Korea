@@ -1,0 +1,59 @@
+{
+  "infoTitle": "Group Setting",
+  "name": {
+    "title": "Name",
+    "subtitle": "Please provide a name for the group."
+  },
+  "description": {
+    "title": "Description",
+    "subtitle": "Provide a description of the group \nThe group description will appear in the invitation sent to the members."
+  },
+  "settingTitle": "Group Booking Page Settings",
+  "duration": {
+    "title": "Open Period",
+    "subtitle": "Group members will share calendars for as many days as you set below."
+  },
+  "location": {
+    "title": "Default Locations",
+    "subtitle": "If you set it up as a place that your group members frequently use, you can easily add it when you create your group booking page.",
+    "placeholder": "Please enter the name of your deafult location.",
+    "addBtn": "Add"
+  },
+  "availability": {
+    "title": "Availability",
+    "subtitle": "Please set the availability you want show on the booking page.\nInvitees will not be able to book outside of the day/time range selected below."
+  },
+  "inviteSettingTitle": "Invitation Setting",
+  "deleteMessage": {
+    "title": "Do you want to delete the item?",
+    "subtitle": "When you delete an item, group members will no longer be able to enter it when they join, and any information you've collected about them will be deleted and cannot be recovered."
+  },
+  "customField": {
+    "title": "Invitee Required Field",
+    "subtitle": "Provide information for members to fill in when they join the group. \nName and email are required, and you can add a variety of other items such as company name and job title.",
+    "add": {
+      "placeholder": "Please provide an item.",
+      "btn": "Add"
+    },
+    "required": {
+      "title": "Required",
+      "previewTitle": "Preview",
+      "name": {
+        "title": "Name",
+        "placeholder": "Kim"
+      },
+      "email": {
+        "title": "Email",
+        "placeholder": "example@splab.dev"
+      }
+    }
+  },
+  "saved": "All the changes saved!",
+  "saveBtn": "Save",
+  "delete": {
+    "title": "Delete",
+    "subtitle": "The group will be deleted and cannot be recovered.\n If you delete a group, you won't be able to receive bookings on the group's booking page, and you won't be able to confirm, change, or cancel events you've already received from the group.",
+    "btn": "Delete"
+  },
+  "setting": ": Group Setting"
+}

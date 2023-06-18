@@ -1,0 +1,68 @@
+{
+  "space": {
+    "spacePageTitle": "Không gian của tôi",
+    "needCustom": "Cá nhân hóa không gian của bạn 🚀",
+    "createEventSpace": "Tạo",
+    "spaceCardTitle": "Danh sách",
+    "edit": "Chỉnh sửa",
+    "noResultText": "Không tìm thấy kết quả"
+  },
+  "addEdit": {
+    "handleHelpText": "Điều này sẽ đi theo URL 'www.sendtime.app/space/@____",
+    "iconHelpText": "Chỉ cho phép tệp png và jpg.",
+    "title": "Tiêu đề",
+    "handle": {
+      "handle": "Đường dẫn tùy chỉnh cho không gian URL",
+      "follow": "Điều này sẽ theo URL “www.sendtime.app/space/@_____”"
+    },
+    "icon": {
+      "label": "Hình biểu tượng",
+      "allowed": "Chỉ cho phép tệp png và jpg."
+    },
+    "description": "Mô tả",
+    "contact": {
+      "info": "Thông tin liên hệ",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "website": "Trang web"
+    },
+    "one": "1",
+    "two": "2",
+    "three": "3",
+    "four": "4",
+    "five": "5",
+    "additionalSettings": "Cài đặt bổ sung",
+    "additionalOptions": {
+      "cardsToBeShown": "Tôi muốn hiển thị các thẻ của người tham gia...",
+      "inRandom": "Ngẫu nhiên",
+      "inAlphabetical": "Theo thứ tự bảng chữ cái",
+      "needReactionButtons": "Tôi cần các nút phản hồi trên mỗi thẻ",
+      "yes": "Có",
+      "no": "Không",
+      "allowPeopleWhoCreatedCards": "Cho phép chỉ những người tạo thẻ mới có thể xem và yêu cầu cuộc họp.",
+      "accessControl": "Kiểm soát truy cập",
+      "public": "Công khai",
+      "accessWithPassword": "Truy cập với mật khẩu"
+    }
+  },
+  "custom": {
+    "customSpaceTitle": "Kiểm tra trang sự kiện đã được xuất bản của bạn!"
+  },
+  "examplePage": "Không gian Mẫu",
+  "needHelp": "Cần trợ giúp?",
+  "publish": "Xuất bản lên web",
+  "editLater": "Bạn có thể cá nhân hóa ngay sau đó!",
+  "editSpace": "Chỉnh sửa không gian",
+  "createSpace": "Tạo không gian",
+  "goBack": "Quay lại trang chủ",
+  "editPageAt": "Bạn có thể chỉnh sửa trang của mình tại",
+  "spaceHome": "trang chủ không gian.",
+  "needMoreCustom": "Bạn cần nhiều tùy chỉnh hơn?",
+  "contactSales": "Liên hệ bộ phận bán hàng",
+  "updateErrorMessage": "Xin lỗi, chúng tôi không thể cập nhật không gian của bạn, vui lòng làm mới và thử lại. Nếu bạn vẫn tiếp tục nhận được lỗi này, vui lòng liên hệ với chúng tôi qua địa chỉ help@splab.dev.",
+  "createErrorMessage": "Xin lỗi, chúng tôi không thể tạo không gian của bạn, vui lòng làm mới và thử lại. Nếu bạn vẫn tiếp tục nhận được lỗi này, vui lòng liên hệ với chúng tôi qua địa chỉ help@splab.dev.",
+  "alert": {
+    "successSpaceCreate": "Tạo không gian thành công",
+    "successSpaceUpdate": "Cập nhật không gian thành công"
+  }
+}

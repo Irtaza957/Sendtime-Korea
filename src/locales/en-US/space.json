@@ -1,0 +1,97 @@
+{
+  "buildMyCard": "Register My Card",
+  "requestMeeting": "Book Now",
+  "more": "More",
+  "poweredBySpaceTitle": "Create a Space for your event now",
+  "poweredBySpaceSubtitle": "Do you want to use this page at your event? →",
+  "loginToEditYourProfileCard": "Please log in to edit your profile card.",
+  "eventAttendeesList": "EVENT ATTENDEES LIST",
+  "aboutTheEvent": "ABOUT THE EVENT",
+  "menu": {
+    "buildMyCard": "Register My Card",
+    "goToSendtime": "Go to Sendtime",
+    "logout": "Logout"
+  },
+  "addCardModal": {
+    "title": "Claim your profile card 😎",
+    "updateTitle": "Update your profile card",
+    "yourCardMissing": "Seems like\nyou're missing a card!",
+    "createOneToSeeMore": "Claim yours now and connect with the right person. 🚀",
+    "createOneToMeet": "Claim yours now and connect with the right person. 🚀",
+    "alreadyHaveAccount": "Already have one?",
+    "login": "Log in",
+    "signUpSectionTitle": "Easy sign-up in 3 seconds",
+    "name": "Name",
+    "namePlaceholder": "John",
+    "email": "Email",
+    "emailPlaceholder": "name@email.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "010-1234-5678",
+    "infoSectionTitle": "Tell us about you.",
+    "nameOnYourCard": "Name on Your Card",
+    "bio": "Bio",
+    "bioPlaceholder": "e.g. Hello, I'm Min, the founder of Sendtime. I want to meet competent people, and interesting potential users.",
+    "hashtags": "Hashtags",
+    "hashtagsPlaceholder": "Keywords separated by commas, such as field, affiliation, department, etc.",
+    "profileImage": "Profile Image (up to 10MB)",
+    "reservationPage": "Which booking page do you want to use?",
+    "createNewReservationPage": "I want to create a new booking page",
+    "socialLinkPlaceholder": "username or URL",
+    "contentsSharingAgreement": "Space Agreement",
+    "contentsSharingAgreement1": "(Optional) I allow my cards in this space to be exposed to search engines.",
+    "contentsSharingAgreement2": "(Optional) I allow my cards to be introduced or recommended in Sendtime-related media such as the Sendtime website, newsletter, blog, articles, official Sendtime space, etc.",
+    "buttonText": "Create Card",
+    "payButtonText": "Pay and Create Card",
+    "updateButtonText": "Update Card",
+    "nextButtonText": "Post your bio card",
+    "alerts": {
+      "successTitle": "Your card has been created!",
+      "updateSuccessTitle": "Your card has been updated!",
+      "successMessage": "Check the welcome email for usage instructions.",
+      "nameEmptyError": "Please enter your name.",
+      "emailFormatError": "Please enter a valid email.",
+      "phoneFormatError": "Please enter a valid phone number.",
+      "onlyImage": "Not a valid image. Please upload a png or jpg file.",
+      "imageSize": "Only image files up to {{size}}MB are allowed to be uploaded.",
+      "agreement": "By clicking the button, I agree to the <terms>Terms of Service</terms> and <privacy>Privacy Policy</privacy>.",
+      "checkInputs": "Please check your inputs again.",
+      "alreadyRegistered": "This user is already registered.",
+      "alreadyInSpace": "This user is already registered in this space.",
+      "somethingWrong": "An error has occurred. Please try again.",
+      "noReservationPage": "Oops, you don't have a booking page yet.",
+      "reservationPageNotFound": "The selected booking page could not be found."
+    }
+  },
+  "enterCodePage": {
+    "title": "Enter password",
+    "button": "Join",
+    "alerts": {
+      "wrongTitle": "Oops, you got it wrong.",
+      "wrongDescription": "Try again."
+    }
+  },
+  "sendMessageModal": {
+    "title": "Send a Message",
+    "description": "Message will send via email message",
+    "to": "To",
+    "message": "Message",
+    "enterMessage": "Enter your message",
+    "messageNote": "When sending the email, the following will be shared.",
+    "send": "Send",
+    "cancel": "Cancel",
+    "successMessage": "You have successfully sent a message."
+  },
+  "alerts": {
+    "cannotReactMyCard": "You cannot react to your own card.",
+    "completePaymentModalTitle": "Please complete your payment!",
+    "completePaymentModalMessage": "You need to complete your payment to create my card and access all features of the space.",
+    "completePaymentModalButton": "Pay"
+  },
+  "spaceInformationMadal": {
+    "title": "Notice",
+    "description1": "You are not logged in. You need to be logged in to send a message to person.",
+    "description2": "You don’t have a card. You need a card to send a message to person.",
+    "loginButton": "Already have one? Login",
+    "registerButton": "Register Now"
+  }
+}

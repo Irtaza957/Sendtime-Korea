@@ -1,0 +1,55 @@
+{
+  "joinPath": {
+    "title": "您是從哪裡得知我們的？",
+    "description": "請選擇所有適用的項目",
+    "paths": [
+      "朋友/同事推薦",
+      "搜尋引擎（Google、Yahoo等）",
+      "透過Sendtime預約會議",
+      "Instagram",
+      "Sendtime部落格",
+      "LinkedIn",
+      "Twitter"
+    ],
+    "other": "其他（請說明）",
+    "next": "下一步"
+  },
+  "integrateCalendar": {
+    "title": "整合您常用的行事曆",
+    "subtitle": "當您整合行事曆時，\n它會即時更新在Sendtime上。",
+    "skip": "跳過",
+    "pleaseWait": "正在整合您的行事曆...\n當數據量較大時，可能需要一些時間。\n同時請勿刷新頁面。"
+  },
+  "calendarCategory": {
+    "title": "整合您常用的行事曆",
+    "description": "當您整合行事曆時，\n它會即時更新在Sendtime上。",
+    "account": "{{email}}",
+    "integrate": "下一步"
+  },
+  "calendarName": {
+    "google": "Google日曆",
+    "outlook": "Outlook插件"
+  },
+  "timeSetting": {
+    "title": "設定在預約頁面上公開的時間",
+    "availableTime": "可用時間",
+    "availableTimeDescription": "預約者只能在下列時間範圍內進行預約申請。",
+    "availableTimeAlert": "時間範圍無效。",
+    "availableDay": "可用日期",
+    "availableDayDescription": "預約者只能在下列選定的日期進行預約申請。",
+    "dontWorry": "不用擔心！\n每當您創建預約頁面時，都可以重新設定公開的時間。",
+    "skip": "稍後再做",
+    "next": "下一步"
+  },
+  "setURL": {
+    "subtitle": "現在進入最後一步！",
+    "title": "設定您的Sendtime URL。",
+    "next": "下一步",
+    "duplicated": "此URL已被使用。請嘗試另一個。"
+  },
+  "message": {
+    "MAX_URL": "最多只允許15個字元。",
+    "ENG_NUM": "只允許使用英文和數字。",
+    "EMPTY": "請輸入URL。"
+  }
+}

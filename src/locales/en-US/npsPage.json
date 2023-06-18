@@ -1,0 +1,24 @@
+{
+  "question1": "How was your experience using Sendtime?",
+  "npsBad": "Poor",
+  "npsGood": "Excellent",
+  "question2": "What was missing or disappointing in your experience with us?",
+  "answersForQuestion2": {
+    "1": "Not user-friendly",
+    "2": "Complicated operation",
+    "3": "Technical issues(Bugs)",
+    "4": "Other"
+  },
+  "question3": {
+    "title": "How can we improve your experience?",
+    "description": "We highly value all ideas and suggestions from our customers, whether they’re positive or critical. In the future, our team might reach out to you to learn more about how we can further improve."
+  },
+  "placeholder": "",
+  "closing": {
+    "title": "Thanks for your feedback!",
+    "subtitle": "We appreciate your thoughts, ideas and suggestions.",
+    "joinGuide": "Join our Slack community to collaborate with other users and help us enhance Sendtime together!",
+    "joinBtn": "Join Now",
+    "joinLink": "https://join.slack.com/t/sendtimecommunity/shared_invite/zt-1fkz6a45w-ZaOyBeBWccqkNh7PsmIDfw"
+  }
+}

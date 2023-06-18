@@ -1,0 +1,24 @@
+{
+  "refresh": "請重新整理並重試",
+  "memberError": {
+    "title": "在這個群組中存在已離開服務的使用者。",
+    "description": "如果您持續遇到相似的問題，\n請隨時透過 help@splab.dev 聯繫我們以獲得協助。"
+  },
+  "goingBackAlertforGroup": "您正在建立的預約頁面將會消失，並回到前一頁。\n是否要返回？",
+  "googleCalendarPermissionRequired": "請授權 Google 日曆整合。",
+  "serverError": "發生錯誤。請稍後重試。如果問題仍然存在，請聯繫客戶支援(help@splab.dev)。",
+  "404": {
+    "title": "哎呀！很抱歉，您所尋找的頁面不存在。\n可能是該頁面已移動或刪除，或者您輸入的 URL 不正確。\n如果問題仍然存在，請隨時聯繫我們的客戶支援團隊 (help@splab.dev) 獲取協助。\n我們很樂意協助您找到所需的內容！",
+    "btn": "回到首頁"
+  },
+  "deletedPage": {
+    "title": "這是一個已刪除的預約頁面。",
+    "subtitle": "此頁面已被刪除，無法再對您的活動進行更改。您只能確認或取消。\n如果您有任何疑問，請聯繫預約頁面主辦人。",
+    "btn": "回到首頁"
+  },
+  "deactivatedPage": {
+    "title": "這是一個已停用的預約頁面。",
+    "subtitle": "此頁面已被主辦人停用，\n如果您有任何疑問，請聯繫預約頁面主辦人。",
+    "btn": "回到首頁"
+  }
+}

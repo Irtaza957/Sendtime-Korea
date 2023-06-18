@@ -1,0 +1,9 @@
+{
+  "phone": {
+    "inputError": "Please enter numbers only.",
+    "MUST_11_DIGITS": "The phone number must be 11 digits."
+  },
+  "name": {
+    "inputError": "Names can only be written in Korean or English."
+  }
+}
